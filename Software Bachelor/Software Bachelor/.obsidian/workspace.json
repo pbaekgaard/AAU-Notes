@@ -15,9 +15,29 @@
               "state": {
                 "file": "4. Semester/Daily Notes/2023-01-26.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
+            },
+            "group": "8752781c41b6b6f7"
+          }
+        ]
+      },
+      {
+        "id": "de22b34dc1550316",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70dab9f138b26c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Daily Notes/2023-01-26.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "8752781c41b6b6f7"
           }
         ]
       }
@@ -156,15 +176,15 @@
   },
   "active": "2809a51f9a2811b3",
   "lastOpenFiles": [
-    "Untitled.md",
+    "4. Semester/Templates/Class Notes.md",
     "4. Semester/Daily Notes/2023-01-26.md",
+    "new daily.md",
+    "4. Semester/4. Semester.md",
+    "Untitled.md",
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Daily Notes/Daily Notes.md",
-    "4. Semester/4. Semester.md",
-    "4. Semester/Templates/Daily Notes.md",
-    "4. Semester/Daily Notes/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
-    "4. Semester/Templates/Class Notes.md"
+    "4. Semester/Templates/Daily Notes.md"
   ]
 }
