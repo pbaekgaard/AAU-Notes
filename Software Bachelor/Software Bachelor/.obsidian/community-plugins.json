@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "folder-note-plugin",
-  "obsidian-dynamic-toc"
+  "obsidian-dynamic-toc",
+  "obsidian-auto-link-title"
 ]
