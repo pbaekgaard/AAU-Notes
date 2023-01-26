@@ -1,4 +1,4 @@
-Course: [[<%tp.file.cursor(1)%>]]
+Course: [[Formal Language Theory]]
 Subject/Topic: #
 Date: {{date}}
 Teacher: 
