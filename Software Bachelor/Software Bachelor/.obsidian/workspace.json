@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Syntax and Semantics.md",
+                "file": "Formal Language Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
     "id": "899f96378edfb40a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Syntax and Semantics.md",
+                "file": "Formal Language Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Syntax and Semantics.md",
+                "file": "Formal Language Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Syntax and Semantics.md"
+                "file": "Formal Language Theory.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 235.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,9 +156,9 @@
   },
   "active": "d10fb9a36247d1a6",
   "lastOpenFiles": [
+    "4. Semester/Syntax and Semantics.md",
     "4. Semester/Languages and Compilers.md",
     "4. Semester/Computer Architecture and Operating Systems.md",
-    "4. Semester/Syntax and Semantics.md",
     "4. Semester/4. Semester.md",
     "Testing pages.md",
     "Semester 4.md",
