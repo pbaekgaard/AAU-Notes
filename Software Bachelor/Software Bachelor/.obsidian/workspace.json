@@ -15,9 +15,29 @@
               "state": {
                 "file": "4. Semester/Daily Notes/2023-01-26.md",
                 "mode": "source",
+                "source": true
+              }
+            },
+            "group": "b0760d4a0d06f084"
+          }
+        ]
+      },
+      {
+        "id": "1b9d4a4cab678408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f19599c90433880d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Daily Notes/2023-01-26.md",
+                "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "b0760d4a0d06f084"
           }
         ]
       }
@@ -157,6 +177,7 @@
   "active": "d790367d468550d5",
   "lastOpenFiles": [
     "4. Semester/Daily Notes/2023-01-26.md",
+    "4. Semester/4. Semester.md",
     "4. Semester/Daily Notes/Daily Notes.md",
     "4. Semester/Templates/Daily Notes.md",
     "4. Semester/Daily Notes/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
@@ -164,7 +185,6 @@
     "4. Semester/Daily Notes/Syntax and Semantics/Syntax and Semantics.md",
     "2023-01-26.md",
     "Untitled.md",
-    "4. Semester/Daily Notes/Languages and Compilers/Languages and Compilers.md",
-    "4. Semester/Daily Notes/Computer Architecture and Operating Systems/Untitled/Untitled.md"
+    "4. Semester/Daily Notes/Languages and Compilers/Languages and Compilers.md"
   ]
 }
