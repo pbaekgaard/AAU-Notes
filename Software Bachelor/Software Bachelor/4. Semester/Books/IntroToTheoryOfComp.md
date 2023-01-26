@@ -1,0 +1,1 @@
+Introduction to the Theory of Computation, 3rd edition, by Michael Sipser, Cengage Learning Publishing, ISBN-13: 9780357670583

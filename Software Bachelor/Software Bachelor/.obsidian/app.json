@@ -10,5 +10,7 @@
   "livePreview": false,
   "showFrontmatter": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "4. Semester/Attachments",
+  "showLineNumber": true,
+  "spellcheck": true
 }
