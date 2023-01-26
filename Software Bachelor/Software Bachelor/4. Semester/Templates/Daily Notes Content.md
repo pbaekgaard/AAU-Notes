@@ -1,6 +1,6 @@
 Course: [[<%tp.file.cursor(1)%>]]
 Subject/Topic: #
-Date: 2023-01-26
+Date: {{date}}
 Teacher: 
 
 # Notes
