@@ -1,2 +1,2 @@
 # About
-Computer Architecture and Operating System is about 
+This is a folder note

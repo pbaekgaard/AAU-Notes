@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/4. Semester.md",
+                "file": "4. Semester/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b7a2e4779796bd9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/4. Semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/4. Semester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Semester/4. Semester.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d10fb9a36247d1a6",
+  "active": "4fe9199ab63852ed",
   "lastOpenFiles": [
+    "[[Course 1.md",
+    "4. Semester/Syntax and Semantics/Syntax and Semantics.md",
+    "4. Semester/Syntax and Semantics/Formal Language Theory.md",
+    "4. Semester/Syntax and Semantics/Programming-language Semantics.md",
+    "Course 1.md",
+    "4. Semester/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
-    "4. Semester/4. Semester.md",
-    "Programming-language Semantics.md",
-    "4. Semester/Syntax and Semantics.md",
-    "4. Semester/Languages and Compilers.md",
-    "Formal Language Theory.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Testing pages.md",
-    "Semester 4.md"
+    "4. Semester/Computer Architecture and Operating Systems/testing.md",
+    "4. Semester/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
+    "4. Semester/4. Semester.md"
   ]
 }
