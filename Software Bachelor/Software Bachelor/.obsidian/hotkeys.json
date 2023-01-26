@@ -18,5 +18,15 @@
       ],
       "key": "D"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }

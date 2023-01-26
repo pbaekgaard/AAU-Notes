@@ -1,4 +1,4 @@
-# LECTURE X - {{title}}
+# Topic
 ```toc
 ```
 ## Subtopic

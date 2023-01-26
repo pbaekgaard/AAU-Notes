@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "760b6fd478f5fd1a",
+        "id": "3a088547f914df26",
         "type": "tabs",
         "children": [
           {
-            "id": "28a304a03cfe2924",
+            "id": "e1466bdf219912b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Daily Notes/Daily Notes.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "f58b7d1cb5c80a7a"
+            "group": "1a25ffd77eea505c"
           }
         ]
       },
       {
-        "id": "38aeef94e77916ca",
+        "id": "c3d6063529739d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "18ecb4e28a2021d1",
+            "id": "2a4670560c6fa2fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Daily Notes/Daily Notes.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "f58b7d1cb5c80a7a"
+            "group": "1a25ffd77eea505c"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Daily Notes/Daily Notes.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Daily Notes/Daily Notes.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Daily Notes/Daily Notes.md"
+                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md"
               }
             }
           },
@@ -174,17 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28a304a03cfe2924",
+  "active": "e1466bdf219912b5",
   "lastOpenFiles": [
+    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
+    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "4. Semester/Courses/Syntax and Semantics/Programming-language Semantics.md",
+    "4. Semester/Courses/Syntax and Semantics/Formal Language Theory.md",
+    "4. Semester/Courses/Syntax and Semantics/this is a topic of a lecture.md",
+    "4. Semester/Templates/Class Notes.md",
     "4. Semester/Templates/Daily Notes.md",
-    "4. Semester/Daily Notes/Daily Notes.md",
-    "4. Semester/Templates/Daily Notes Content.md",
-    "4. Semester/Templates/test.md",
-    "MyFilename.md",
-    "test.md",
     "4. Semester/Daily Notes/2023-01-26.md",
-    "4. Semester/Daily Notes/Untitled.md",
-    "Untitled.md",
-    "4. Semester/Templates/Class Notes.md"
+    "4. Semester/Courses/Syntax and Semantics/Lecture 1 - Topic.md"
   ]
 }

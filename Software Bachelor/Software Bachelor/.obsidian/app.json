@@ -8,5 +8,7 @@
   },
   "promptDelete": false,
   "livePreview": false,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments"
 }
