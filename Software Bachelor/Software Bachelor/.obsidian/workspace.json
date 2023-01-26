@@ -37,32 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Templates/Class Notes.md",
+                "file": "4. Semester/Syntax and Semantics/Programming-language Semantics.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "5dd4b68346db6cdc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4624c2ea3b9ba62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Semester/Templates/Class Notes.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Templates/Class Notes.md",
+                "file": "4. Semester/Syntax and Semantics/Programming-language Semantics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Templates/Class Notes.md",
+                "file": "4. Semester/Syntax and Semantics/Programming-language Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Templates/Class Notes.md"
+                "file": "4. Semester/Syntax and Semantics/Programming-language Semantics.md"
               }
             }
           },
@@ -197,12 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f45897b72d77c064",
+  "active": "b665d32f23a293ac",
   "lastOpenFiles": [
-    "4. Semester/Syntax and Semantics/Syntax and Semantics.md",
-    "4. Semester/Templates/Class Notes.md",
-    "4. Semester/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Syntax and Semantics/Programming-language Semantics.md",
+    "4. Semester/Templates/Class Notes.md",
+    "4. Semester/Syntax and Semantics/Syntax and Semantics.md",
+    "4. Semester/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Syntax and Semantics/Course 1.md",
     "4. Semester/Languages and Compilers/Languages and Compilers.md",
     "__TOC__.md",
