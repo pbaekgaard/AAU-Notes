@@ -3,5 +3,7 @@
   "folder-note-plugin",
   "obsidian-dynamic-toc",
   "obsidian-auto-link-title",
-  "theme-picker"
+  "theme-picker",
+  "obsidian-electron-window-tweaker",
+  "obsidian-style-settings"
 ]

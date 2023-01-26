@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "648a4da0452adba7",
+        "id": "d8fcd2c08eca117e",
         "type": "tabs",
         "children": [
           {
-            "id": "b75ce2d6593b7c7f",
+            "id": "d790367d468550d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b75ce2d6593b7c7f",
+  "active": "d790367d468550d5",
   "lastOpenFiles": [
     "4. Semester/Daily Notes/2023-01-26.md",
     "4. Semester/Daily Notes/Daily Notes.md",
