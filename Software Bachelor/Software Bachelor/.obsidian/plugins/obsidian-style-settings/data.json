@@ -8,5 +8,16 @@
   "shimmering-focus@@show-ribbon": false,
   "shimmering-focus@@show-new-tab-button": false,
   "shimmering-focus@@show-tab-list-button": false,
-  "shimmering-focus@@show-close-buttons": false
+  "shimmering-focus@@show-close-buttons": false,
+  "shimmering-focus@@show-file-explorer-navigation": false,
+  "shimmering-focus@@hide-languagetool-status-bar": false,
+  "shimmering-focus@@hide-electron-window-tweaker-status-bar": false,
+  "shimmering-focus@@hide-pane-relief-focus-lock-status-bar": false,
+  "shimmering-focus@@hide-backlinks-status-bar": false,
+  "shimmering-focus@@hidden-sidebars-hidden-statusbar": false,
+  "shimmering-focus@@tabbar-when-one-tab": "tabbar-header-hybrid",
+  "shimmering-focus@@normal-header-bar": false,
+  "shimmering-focus@@trim-long-filenames": false,
+  "shimmering-focus@@overlaying-right-sidebar": true,
+  "shimmering-focus@@private-mode": false
 }
