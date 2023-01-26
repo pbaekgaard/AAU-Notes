@@ -74,14 +74,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Templates/Daily Notes.md",
+                "file": "4. Semester/Templates/Daily Notes Content.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1b060096225834d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Templates/test.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "048861a16cc3d360",
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Templates/Daily Notes.md",
+                "file": "4. Semester/Templates/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Templates/Daily Notes.md",
+                "file": "4. Semester/Templates/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Templates/Daily Notes.md"
+                "file": "4. Semester/Templates/test.md"
               }
             }
           },
@@ -236,17 +248,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ab002e83f7a1338",
+  "active": "1b060096225834d1",
   "lastOpenFiles": [
+    "MyFilename.md",
+    "4. Semester/Templates/test.md",
+    "4. Semester/Daily Notes/Daily Notes.md",
     "4. Semester/Templates/Daily Notes Content.md",
+    "4. Semester/Templates/Daily Notes.md",
+    "test.md",
     "4. Semester/Daily Notes/2023-01-26.md",
     "4. Semester/Daily Notes/Untitled.md",
-    "4. Semester/Daily Notes/Daily Notes.md",
     "Untitled.md",
-    "4. Semester/Templates/Class Notes.md",
-    "new daily.md",
-    "4. Semester/4. Semester.md",
-    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
-    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md"
+    "4. Semester/Templates/Class Notes.md"
   ]
 }

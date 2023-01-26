@@ -1,1 +1,1 @@
-<%tp.file.create_new(%>
+	<%tp.file.create_new(tp.file.find_tfile("Daily Notes Content"), "test", true, app.vault.getAbstractFileByPath("Daily Notes"))%>
