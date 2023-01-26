@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing pages.md",
+                "file": "4. Semester/4. Semester.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing pages.md",
+                "file": "4. Semester/4. Semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing pages.md",
+                "file": "4. Semester/4. Semester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing pages.md"
+                "file": "4. Semester/4. Semester.md"
               }
             }
+          },
+          {
+            "id": "b665d32f23a293ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fe9199ab63852ed",
+  "active": "d10fb9a36247d1a6",
   "lastOpenFiles": [
-    "4. Semester.md",
+    "4. Semester/Computer Architecture and Operating Systems.md",
+    "4. Semester/4. Semester.md",
+    "4. Semester/Syntax and Semantics.md",
+    "4. Semester/Languages and Compilers.md",
     "Testing pages.md",
     "Semester 4.md",
     "testing.md",
