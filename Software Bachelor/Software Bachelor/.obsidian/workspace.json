@@ -4,36 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "ea5d6aa41b9abbb8",
+        "id": "d2fccc4807c53dd9",
         "type": "tabs",
         "children": [
           {
-            "id": "c871e8cadbd5cea3",
+            "id": "8492c8b7c85de9f6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4. Semester/Books/Hans.pdf.pdf"
-              }
+              "type": "empty",
+              "state": {}
             },
-            "group": "3924255b875f6d3b"
+            "group": "8b0c2c77e3df4284"
           }
         ]
       },
       {
-        "id": "4f2837cd52c4260d",
+        "id": "cbde6679447c5e54",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4d59bf881928ce",
+            "id": "80c65aca6c12bafe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4. Semester/Books/Hans.pdf.pdf"
-              }
+              "type": "empty",
+              "state": {}
             },
-            "group": "3924255b875f6d3b"
+            "group": "8b0c2c77e3df4284"
           }
         ]
       }
@@ -85,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 213.5
   },
   "right": {
     "id": "899f96378edfb40a",
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Books/Hans.pdf.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Books/Hans.pdf.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Semester/Books/Hans.pdf.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -158,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,17 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c871e8cadbd5cea3",
+  "active": "4fe9199ab63852ed",
   "lastOpenFiles": [
-    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
-    "4. Semester/Books/Hans.pdf.pdf",
-    "4. Semester/Courses/Syntax and Semantics/Hans.pdf.md",
-    "4. Semester/Books/TransitionsAndTrees.md",
-    "4. Semester/Books/IntroToTheoryOfComp.md",
-    "4. Semester/Books/CraftingACompiler.md",
-    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
-    "4. Semester/Books/ConceptsOfProgrammingLanguages.md",
-    "4. Semester/Courses/Syntax and Semantics/Formal Language Theory.md"
+    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
+    "4. Semester/Books/TransitionsAndTrees.md",
+    "4. Semester/Books/TransitionsandTrees.pdf",
+    "4. Semester/Courses/Syntax and Semantics/\"Transitions.md",
+    "4. Semester/Courses/Syntax and Semantics/Transitions.md",
+    "4. Semester/Books/IntroToTheoryOfComp.md",
+    "4. Semester/Courses/Syntax and Semantics/Hans.pdf.md",
+    "4. Semester/Books/CraftingACompiler.md"
   ]
 }
