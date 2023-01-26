@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "4. Semester/Templates/Daily Notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             },
@@ -171,12 +171,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "c4a55dec1ac30ac6",
   "lastOpenFiles": [
     "4. Semester/Daily Notes/2023-01-26.md",
+    "4. Semester/Templates/Daily Notes.md",
     "4. Semester/Templates/Class Notes.md",
     "new daily.md",
     "4. Semester/4. Semester.md",
@@ -184,7 +186,6 @@
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
-    "4. Semester/Daily Notes/Daily Notes.md",
-    "4. Semester/Templates/Daily Notes.md"
+    "4. Semester/Daily Notes/Daily Notes.md"
   ]
 }
