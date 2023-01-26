@@ -6,7 +6,5 @@
   "theme-picker",
   "obsidian-electron-window-tweaker",
   "obsidian-style-settings",
-  "obsidian-auto-split",
-  "text-snippets-obsidian",
-  "templater-obsidian"
+  "obsidian-auto-split"
 ]
