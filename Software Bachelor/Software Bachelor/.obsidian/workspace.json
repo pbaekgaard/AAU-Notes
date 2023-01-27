@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d2fccc4807c53dd9",
+        "id": "18f43f12890d422d",
         "type": "tabs",
         "children": [
           {
-            "id": "8492c8b7c85de9f6",
+            "id": "d88fc4ca11bc8f3e",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Software Bachelor/Software Bachelor/.trash/Untitled 12.md",
-                "staged": false
+                "file": "Software Bachelor/Software Bachelor/.obsidian/workspace.json",
+                "staged": true
               }
-            },
-            "group": "8b0c2c77e3df4284"
-          }
-        ]
-      },
-      {
-        "id": "cbde6679447c5e54",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80c65aca6c12bafe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "8b0c2c77e3df4284"
+            }
           }
         ]
       }
@@ -165,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8492c8b7c85de9f6",
+  "active": "d88fc4ca11bc8f3e",
   "lastOpenFiles": [
     "4. Semester/Untitled.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
