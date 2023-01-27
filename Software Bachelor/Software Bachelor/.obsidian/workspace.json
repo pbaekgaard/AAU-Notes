@@ -162,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fe9199ab63852ed",
+  "active": "b665d32f23a293ac",
   "lastOpenFiles": [
+    "4. Semester/Test.md",
     "4. Semester/Templates/Class Notes.md",
     "4. Semester/Templates/Daily Notes.md",
     "4. Semester/Daily Notes/Daily Notes.md",
@@ -172,7 +173,6 @@
     "4. Semester/Books/CraftingACompiler.pdf",
     "4. Semester/yrdy.md",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
-    "4. Semester/Books/TransitionsAndTrees.md",
-    "4. Semester/Books/TransitionsandTrees.pdf"
+    "4. Semester/Books/TransitionsAndTrees.md"
   ]
 }
