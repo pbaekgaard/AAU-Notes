@@ -1,42 +1,19 @@
 {
   "main": {
-    "id": "3e08b71aabbf1a56",
+    "id": "541d215e96f4acd4",
     "type": "split",
     "children": [
       {
-        "id": "678621b1c8198510",
+        "id": "5db1dbd3f6de7987",
         "type": "tabs",
         "children": [
           {
-            "id": "2140bcddbb968df5",
+            "id": "06991c460bac7a28",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Software Bachelor/Software Bachelor/.obsidian/workspace.json",
-                "staged": false
-              }
-            },
-            "group": "3b62ab838c7582d3"
-          }
-        ]
-      },
-      {
-        "id": "558fdbc630dfda54",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e5c9a8f44768e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Semester/Templates/Class Notes.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "3b62ab838c7582d3"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -44,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "30a105e6044245fe",
+    "id": "2a01598c9e684121",
     "type": "split",
     "children": [
       {
-        "id": "deb17cad188a48ec",
+        "id": "aa8bd986be620ce0",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe9199ab63852ed",
+            "id": "c2210e3f0028973c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +39,7 @@
             }
           },
           {
-            "id": "ad7f38f0db8288e9",
+            "id": "d8740ba657013d8b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +54,7 @@
             }
           },
           {
-            "id": "2183437c9992ae51",
+            "id": "a7ebbf6e644b0227",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -88,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 300
   },
   "right": {
-    "id": "899f96378edfb40a",
+    "id": "0d27a5342ba1e490",
     "type": "split",
     "children": [
       {
-        "id": "65744837530184ac",
+        "id": "2e190c86aa50635b",
         "type": "tabs",
         "children": [
           {
-            "id": "ba112cf33f77c4a1",
+            "id": "364e1ce020dc60fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -115,7 +92,7 @@
             }
           },
           {
-            "id": "98256c7f271a8582",
+            "id": "f040775b66cbcfcc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -126,7 +103,7 @@
             }
           },
           {
-            "id": "a295af69541a5c76",
+            "id": "d1724a6fe6e871be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,27 +114,19 @@
             }
           },
           {
-            "id": "98e649ff32a8b10f",
+            "id": "6b6caab0956a1f07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "b665d32f23a293ac",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,17 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2140bcddbb968df5",
-  "lastOpenFiles": [
-    "4. Semester/Templates/Class Notes.md",
-    "4. Semester/Templates/Daily Notes.md",
-    "4. Semester/Daily Notes/Daily Notes.md",
-    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
-    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
-    "4. Semester/Books/CraftingACompiler.pdf",
-    "4. Semester/yrdy.md",
-    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
-    "4. Semester/Books/TransitionsAndTrees.md",
-    "4. Semester/Books/TransitionsandTrees.pdf"
-  ]
+  "active": "c2210e3f0028973c",
+  "lastOpenFiles": []
 }

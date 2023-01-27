@@ -6,8 +6,9 @@
   "theme-picker",
   "obsidian-electron-window-tweaker",
   "obsidian-style-settings",
-  "obsidian-auto-split",
   "obsidian-latex-suite",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "obsidian-icon-folder",
+  "obsidian-auto-split"
 ]
