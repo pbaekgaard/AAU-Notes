@@ -1,8 +1,0 @@
-# Topic
-```toc
-```
-## Subtopic
-
-
-
-# Exercises

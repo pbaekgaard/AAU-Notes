@@ -1,6 +1,0 @@
-# {{Lecture no. - TOPIC}}
-
-
-
-
-# Exercises
