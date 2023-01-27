@@ -17,8 +17,17 @@
                 "staged": true
               }
             }
+          },
+          {
+            "id": "f1943c357d95357b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,9 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d88fc4ca11bc8f3e",
+  "active": "b665d32f23a293ac",
   "lastOpenFiles": [
-    "4. Semester/Untitled.md",
+    "4. Semester/yrdy.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
