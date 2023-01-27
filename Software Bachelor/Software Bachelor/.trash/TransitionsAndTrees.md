@@ -1,1 +1,0 @@
-Introduction to the Theory of Computation, 3rd edition, by Hans Hüttel, Cambridge University Press, ISBN-13: 9780521147095
