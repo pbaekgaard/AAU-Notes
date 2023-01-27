@@ -1,19 +1,43 @@
 {
   "main": {
-    "id": "541d215e96f4acd4",
+    "id": "3e08b71aabbf1a56",
     "type": "split",
     "children": [
       {
-        "id": "5db1dbd3f6de7987",
+        "id": "a2f948f64c1a037f",
         "type": "tabs",
         "children": [
           {
-            "id": "06991c460bac7a28",
+            "id": "2f06bb49ceaed6eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Test.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "07346ede6eb4480f"
+          }
+        ]
+      },
+      {
+        "id": "7f4eb61ce0cd398d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a4331393b27481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Test.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "07346ede6eb4480f"
           }
         ]
       }
@@ -21,15 +45,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2a01598c9e684121",
+    "id": "30a105e6044245fe",
     "type": "split",
     "children": [
       {
-        "id": "aa8bd986be620ce0",
+        "id": "deb17cad188a48ec",
         "type": "tabs",
         "children": [
           {
-            "id": "c2210e3f0028973c",
+            "id": "4fe9199ab63852ed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +63,7 @@
             }
           },
           {
-            "id": "d8740ba657013d8b",
+            "id": "ad7f38f0db8288e9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +78,7 @@
             }
           },
           {
-            "id": "a7ebbf6e644b0227",
+            "id": "2183437c9992ae51",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +89,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5
   },
   "right": {
-    "id": "0d27a5342ba1e490",
+    "id": "899f96378edfb40a",
     "type": "split",
     "children": [
       {
-        "id": "2e190c86aa50635b",
+        "id": "65744837530184ac",
         "type": "tabs",
         "children": [
           {
-            "id": "364e1ce020dc60fc",
+            "id": "ba112cf33f77c4a1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Semester/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +117,19 @@
             }
           },
           {
-            "id": "f040775b66cbcfcc",
+            "id": "98256c7f271a8582",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Semester/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d1724a6fe6e871be",
+            "id": "a295af69541a5c76",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +140,29 @@
             }
           },
           {
-            "id": "6b6caab0956a1f07",
+            "id": "98e649ff32a8b10f",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "4. Semester/Test.md"
+              }
+            }
+          },
+          {
+            "id": "b665d32f23a293ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2210e3f0028973c",
-  "lastOpenFiles": []
+  "active": "2f06bb49ceaed6eb",
+  "lastOpenFiles": [
+    "4. Semester/Templates/Class Notes.md",
+    "4. Semester/Templates/Daily Notes.md",
+    "4. Semester/Daily Notes/Daily Notes.md",
+    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
+    "4. Semester/Books/CraftingACompiler.pdf",
+    "4. Semester/yrdy.md",
+    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
+    "4. Semester/Books/TransitionsAndTrees.md",
+    "4. Semester/Books/TransitionsandTrees.pdf"
+  ]
 }

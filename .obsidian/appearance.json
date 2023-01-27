@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Shimmering Focus",
+  "theme": "moonstone",
+  "baseFontSize": 15
 }
