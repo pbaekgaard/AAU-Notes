@@ -15,4 +15,4 @@ This lecture was a quick description of what the course will be about. Furthermo
 
 Notes: [[Overview of the course and Language Processors]]
 
-Exercises: [[Lecture 1: Exercises]]
+Exercises: [[Lecture 1 - Exercises]]
