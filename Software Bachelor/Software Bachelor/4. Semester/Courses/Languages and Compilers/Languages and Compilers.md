@@ -10,6 +10,6 @@ The _Languages and Compilers_ course aims to gain knowledge of important princip
 
 # Topics
 
-## Topic of Lecture
+## 1. Topic of Lecture
 Description
 [[Link to lecture]]
