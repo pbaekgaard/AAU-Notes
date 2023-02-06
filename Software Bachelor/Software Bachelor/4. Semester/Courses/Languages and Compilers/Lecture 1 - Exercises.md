@@ -14,7 +14,7 @@
 ## 1. Sebesta Review Questions
 
 ### 1. Why is it useful for a programmer to have the ability to learn new ­languages, even though he or she may have a good knowledge of a number of programming languages?
-Being aware of a wider variety of programming language features can reduce the limitations of constructing algorithms in software development. Programmers can increase the range of their software development thought processes by learning new language constructs. Often language constructs can be simulated in other languages that do not support those constructs directly.
+Being aware of a wider variety of programming language features can reduce the limitations of constructing algorithms in software development. Programmers can increase the range of their software development thought processes by learning new language constructs. Often language constructs can be **simulated in other languages** that do not support those constructs directly.
 
 ### 2. Why is it essential to choose an appropriate programming language for a specific software solution?
 As some scenarios can call for specific functionality, choosing the appropriate language can be very helpful. Some programming languages could implement certain functions that are needed by default, leading to improved programming time as the developer will not have to implement the functions themselves.
@@ -29,13 +29,29 @@ A third problem is **operator overloading**. Operator overloading is when a prog
 Finally, simplicity can be carried too far. If a programming language becomes too simple program structure can be less obvious and the readability will fall.
 
 ### 10. Why does too much orthogonality cause problems?
-
+Too much orthogonality leads to excessive complexity, with an unnecessary amount of combinations. Even though the combinations might be simple, the huge amount of combinations lead to high complexity.
 
 ### 12. Why is too much orthogonality a detriment to “writability”?
-
+If a program has a excessively high amounts of combinations that are legal. Errors in programs can go unnoticed as nearly any combination of primitives is legal. This can lead to programs that cannot be discovered by the compiler. 
 
 ### 21. What are the three fundamental features of an ­object­-oriented programming language?
+[[Abstract data types]], [[inheritance]] and [[dynamic binding]].
 
 
 ### 25. Which produces faster program execution, a compiler or a pure interpreter?
+A compiler is 10 to 100 times faster than pure interpretation. 
 
+However Pure Interpretation has the advantage of allowing easy debugging, as the interpreter can tell exactly where in the source code the error occurs.
+
+## 2. Use Table 1.1 on page 31 in Sebesta’s book to evaluate the C programming language
+| Characteristic          | Readability | Writability | Reliability |
+| ----------------------- | ----------- | ----------- | ----------- |
+| Simplicity              |             |             |             |
+| Orthogonality           |             |             |             |
+| Data Types              |             |             |             |
+| Syntax Design           |             |             |             |
+| Support for Abstraction |             |             |             |
+| Expressivity            |             |             |             |
+| Type Checking           |             |             |             |
+| Exception Handling      |             |             |             |
+| Restricted Aliasing     |             |             |             |
