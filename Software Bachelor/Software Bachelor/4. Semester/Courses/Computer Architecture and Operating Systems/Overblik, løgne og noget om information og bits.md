@@ -44,4 +44,41 @@ Some other system-level languages are [D](https://dlang.org/overview.html), [Rus
 * Functions with parameters, local and global variables
 
 # Binary and Hex
+In general, when calculating numbers we multiply the individual numbers by the base<sup>index</sup> reading from the right side.
 
+## Decimals
+Decimal numbers are **base 10**. Decimals are **strings going from 0 to 9**.
+Decimals work by going from the right side to the left. You multiple the individual numbers by 10<sup>x</sup>, starting with 0 and working up.
+Taking a number like 123<sub>10</sub>, this would give 3\*10<sup>0</sup> + 2\*10<sup>1</sup> + 1\*10<sup>2</sup>.
+
+The number that gives the highest value to the overall number is the first (most left number). Opposite works for the most right having the least value.
+
+## Binary
+Binary numbers are **base 2**. Meaning they are a string of numbers **consisting of 0's and 1's**.
+
+Similarly to decimals these are calculated from the right side, however as the Binary numbers are base 2, we multiple by 2<sup>x</sup>.
+
+The weight of the numbers work similarly to decimals with the most left number having the most weight for the value.
+
+## Hexadecimal
+Hexadecimals are **base 16**. Because of this, they are quite different to Binary and Decimal numbers. Hexadecimals are **strings from 0-9 and 'A' to 'F'**.
+
+Counting Hexadecimals the values goes as follows:
+| Hex | Decimal | Binary |
+| --- | ------- | ------ |
+| 0   | 0       | 0000   |
+| 1   | 1       | 0001   |
+| 2   | 2       | 0010   |
+| 3   | 3       |        |
+| 4   | 4       |        |
+| 5   | 5       |        |
+| 6   | 6       |        |
+| 7   | 7       |        |
+| 8   | 8       |        |
+| 9   | 9       |        |
+| A   | 10      |        |
+| B   | 11      |        |
+| C   | 12      |        |
+| D   | 13      |        |
+| E   | 14      |        |
+| F   | 15      |        |
