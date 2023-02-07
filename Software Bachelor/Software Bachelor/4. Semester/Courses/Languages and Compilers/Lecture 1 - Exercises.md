@@ -44,6 +44,8 @@ A compiler is 10 to 100 times faster than pure interpretation.
 However Pure Interpretation has the advantage of allowing easy debugging, as the interpreter can tell exactly where in the source code the error occurs.
 
 ## 2. Use Table 1.1 on page 31 in Sebesta’s book to evaluate the C programming language
+I dont get it
+
 | Characteristic          | Readability | Writability | Reliability |
 | ----------------------- | ----------- | ----------- | ----------- |
 | Simplicity              |             |             |             |
@@ -55,3 +57,13 @@ However Pure Interpretation has the advantage of allowing easy debugging, as the
 | Type Checking           |             |             |             |
 | Exception Handling      |             |             |             |
 | Restricted Aliasing     |             |             |             |
+
+
+## 3. Use Table 1.1 on page 31 in Sebesta’s book to evaluate the C# or Java programming language (optional)
+Same
+
+## 4.  Do Fisher et al. exercise 3 on page 26 (exercise 5 page 55 in GE)
+
+
+## 5.  Do Fisher et al. exercise 7 on page 28 (exercise 10 on page 57 in GE) (optional)
+
