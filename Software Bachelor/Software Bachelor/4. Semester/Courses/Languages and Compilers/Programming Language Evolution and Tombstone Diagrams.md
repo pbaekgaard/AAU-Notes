@@ -84,4 +84,22 @@ When interpreted as data, it is a list of four elements. When viewed as code, it
 is the application of the function named A to the three parameters B, C, and D.
 
 ## Descendants
-Scheme and Common Lisp are two descendants of Lisp. Scheme is suitable for courses in functional programming and general introductions to programming while Common Lisp has a large number of data types and structures. Common Lisp was developed to create a more portable 
+Scheme and Common Lisp are two descendants of Lisp. Scheme is suitable for courses in functional programming and general introductions to programming while Common Lisp has a large number of data types and structures. Common Lisp was developed to create a more portable for the programs written.
+Common Lisp is recognized as flexible.
+
+## Related languages
+Other related languages are ML, Miranda and Caml.
+
+# The First Step Toward Sophistication: ALGOL 60
+ALGOL 60 was created due to the plethora of different languages that existed for different machines. No single language was created as a standard for most machines. ACM (Association for Computing Machinery) formed a committee to study and recommend action to create a machine-independent scientific programming language. Fortran could not be considered as it was solely owned by IBM.
+
+In Germany, GAMM was on the same track and invited ACM to join. They together started the design and creation of ALGOL. It was firstly named IAL.
+
+
+ALGOL was in many was a decendant of Fortran.
+
+ALGOL took inspiration for the assignment statement from Plankalkül which used *=>*, but changed it to *:=* due to character set limitations.
+
+
+
+# AT THIS POINT PETER REALISED IT WAS NO LONGER WORTH IT READING. THIS HAS BEEN 2 HOURS OF READING WASTED :(
