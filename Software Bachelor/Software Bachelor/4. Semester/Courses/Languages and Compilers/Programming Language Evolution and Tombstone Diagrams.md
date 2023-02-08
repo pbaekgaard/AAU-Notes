@@ -8,8 +8,7 @@ The Plankalkül language was very complete. Its most advanced features are in th
 The language's simplest data type is the bit, Integer and floating-point numerics types were built from the bit type.
 
 > *The floating-point type used twos-complement notation and the “hidden bit”
-scheme currently used to avoid storing the most significant bit of the normal-
-ized fraction part of a floating-point value.*
+scheme currently used to avoid storing the most significant bit of the normalized fraction part of a floating-point value.*
 
 It also had arrays and records (records are called structs in C-based languages).
 Records could include nested records.

@@ -6,7 +6,7 @@
       {
         "id": "a2f948f64c1a037f",
         "type": "tabs",
-        "dimension": 49.166666666666664,
+        "dimension": 49.16666666666666,
         "children": [
           {
             "id": "2f06bb49ceaed6eb",
@@ -26,7 +26,7 @@
       {
         "id": "7f4eb61ce0cd398d",
         "type": "tabs",
-        "dimension": 50.833333333333336,
+        "dimension": 50.83333333333334,
         "children": [
           {
             "id": "04a4331393b27481",
@@ -178,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04a4331393b27481",
+  "active": "2f06bb49ceaed6eb",
   "lastOpenFiles": [
     "4. Semester/Attachments/InternalRepresentationofTwoLispLists.png",
     "4. Semester/Courses/Languages and Compilers/Programming Language Evolution and Tombstone Diagrams.md",
