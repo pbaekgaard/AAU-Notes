@@ -50,4 +50,22 @@ You simply convert each letter into its Hex value
 
 A. Using the AND operator (&) we can specify how many bytes we want from the hex string: x & 0xFF. Meaning we take the last 2 bytes from x.
 
-B. Using the XOR operator ()
+B. Using the XOR operator (^) together with the NOT operator (~) and using a Hexadecimal of 0xFF, we can set 0's at the last two hex values of x
+
+x ^ ~0xFF
+
+C. Using the OR operator (|) we can specify the last two bytes with 0xFF.
+
+x | 0xFF
+
+
+7. Problem 2.14 (p.93)
+To do the exercise, convert the hex into binary and perform the operations.  
+As for the local expressions from the right side, you think of any **non 0 as true** and **0's as false**
+
+| Expression     | Value | Expression       | Value |
+| -------------- | ----- | ---------------- | ----- |
+| 0x55 & 0x46    | 0x44  | 0x55 && 0x46     | 0x01  |
+| 0x55 \| 0x46   | 0x57  | 0x55 \|\| 0x46   | 0x01  |
+| ~0x55 \| ~0x46 | 0xBB  | !0x55 \|\| !0x46 | 0x00  |
+| 0x55 & !0x46   | 0x00  | 0x55 && ~0x46    | 0x01  |
