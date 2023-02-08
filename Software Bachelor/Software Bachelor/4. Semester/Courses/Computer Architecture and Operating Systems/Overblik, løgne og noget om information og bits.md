@@ -187,6 +187,41 @@ Earlier PC's used 32bit architectures, while modern new PC's use 64bit.
 The organization of words depend on their bit-size.
 
 #### 32-Bit
-Say you have an array of 4 32-Bit words. One as previously mentioned on this page  
+Say you have an array of 4 32-Bit words. One as previously mentioned on this page a byte consists of 8 bits. therefore a 32-Bit word is equal to 4 bytes. So the first word would be placed in the memory and the next one would be 4 addresses further. For example, if we have a word that is placed at address *00000000*, the next word would be placed at *00000004*. 
 
 #### 64-Bit
+64-Bit words works exactly as 32-Bit words, however due to it being 64-Bit, they are equal to 8 bytes. Therefore the second word is placed 8 addresses after the first word. For example, the first word could be placed at *00000000* and the next word would then be placed at *00000008*.
+
+#### Pointers
+Pointers are pointing to the first address of a word in the memory. So if a pointer where to point to the first 64-bit word, even though it spans from *00000000* to *00000007*, a pointer would point to *00000000*.
+
+## Byte arrangement
+There are two different schools used for arranging bytes.
+
+### Big End-ian (Sun, Motorola Power PC, Internet)
+The Big End-ian method placed the most weighed byte first and and the least weighed byte last 
+
+### Little End-ian (x86)
+
+Little End-ian is the opposite and places the least weighed byte first and the most weighed byte last.
+
+![Byte arrangement for Big End-ian and Little End-ian|700](Attachments/ByteArrangement.png)
+
+The byte arrangement has a purpose for two scenarios.
+
+### Reading bytes
+When reading bytes it is very important that we know the which arrangement school is used, when converting Assembly code into actual Machine Code.
+
+Here is an example of converting from Assembly to Machine Code for Little End-ian:
+
+![Assembly To Machine using the Little End-ian school|700](Attachments/AssemblyToMachineLittleEndIan.png)
+
+### Communicating binary data between different machines.
+When communicating between two devices it is important to be ready that one of the devices might not use the same architecture, and therefore not use the same arrangement school.
+
+In this case when working on network applications for example, where multiple different devices with different architectures might work together, it is important to choose a common format, so all devices know how to convert the information they receive from others or how the information should be send.
+
+Example of bad implemention without a common format:
+![Example of communication between two different schools of arrangement without common format|700](Attachments/BadCommunicationEndian.png)
+
+![Examples of differences and information on networking|700](CommonDifferencesAndInternetStuff.png)
