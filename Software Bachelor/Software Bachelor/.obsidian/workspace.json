@@ -6,7 +6,7 @@
       {
         "id": "a2f948f64c1a037f",
         "type": "tabs",
-        "dimension": 70.3056768558952,
+        "dimension": 49.166666666666664,
         "children": [
           {
             "id": "2f06bb49ceaed6eb",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits - Exercises.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "7f4eb61ce0cd398d",
         "type": "tabs",
-        "dimension": 29.694323144104807,
+        "dimension": 50.83333333333333,
         "children": [
           {
             "id": "04a4331393b27481",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits - Exercises.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits - Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits - Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md"
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits - Exercises.md"
               }
             }
           },
@@ -178,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b665d32f23a293ac",
+  "active": "2f06bb49ceaed6eb",
   "lastOpenFiles": [
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
