@@ -64,21 +64,48 @@ The weight of the numbers work similarly to decimals with the most left number h
 Hexadecimals are **base 16**. Because of this, they are quite different to Binary and Decimal numbers. Hexadecimals are **strings from 0-9 and 'A' to 'F'**.
 
 Counting Hexadecimals the values goes as follows:
+
 | Hex | Decimal | Binary |
 | --- | ------- | ------ |
 | 0   | 0       | 0000   |
 | 1   | 1       | 0001   |
 | 2   | 2       | 0010   |
-| 3   | 3       |        |
-| 4   | 4       |        |
-| 5   | 5       |        |
-| 6   | 6       |        |
-| 7   | 7       |        |
-| 8   | 8       |        |
-| 9   | 9       |        |
-| A   | 10      |        |
-| B   | 11      |        |
-| C   | 12      |        |
-| D   | 13      |        |
-| E   | 14      |        |
-| F   | 15      |        |
+| 3   | 3       | 0011   |
+| 4   | 4       | 0100   |
+| 5   | 5       | 0101   |
+| 6   | 6       | 0110   |
+| 7   | 7       | 0111   |
+| 8   | 8       | 1000   |
+| 9   | 9       | 1001   |
+| A   | 10      | 1010   |
+| B   | 11      | 1011   |
+| C   | 12      | 1100   |
+| D   | 13      | 1101   |
+| E   | 14      | 1110   |
+| F   | 15      | 1111   |
+
+
+Similarly the weight works as for Binary and Decimals, you multiply by the base powered by whatever index starting from the right.
+
+### Notation
+In the [[C Programming Language]] you write hexadecimals with a prefix and suffix. The prefix is **0x**. and the suffix is a **b/B**. That means if we are to write FA1D37 as a hexadecimal in C, we would write *0xFA1D37B* or *0xFA1D37b*.
+
+### Conversion
+Conversion from hexadecimals to binary is easy. You replace all hex-numbers in the string with the binary value
+
+> [!NOTE] Hexadecimal to Binary Example
+> 2BA -> 0010 1011 1010
+
+Conversion from binary to hexadecimals is similarly also easy. You separate the bit string into groups of 4 starting from the right and convert the 4 bits into hex-numbers
+
+> [!NOTE] Binary to Hexadecimal Example
+> 1010111010 -> 10 1011 1010 -> 2BA
+
+### Why
+Hexadecimals are more compact that decimals and binary numbers. Simultaneously it is also easy to convert hexadecimals.
+
+## Binary Representation
+ In a computer the binary representation is explained by the voltage range. Low voltage at about **0.0V to 0.5V represents a 0**, while a high voltage of about **2.8V to 3.3V represents a 1**. There is a clear separation between the values so there are no mistakes.
+ The charge required for the high or low voltage take abit of time before the charge is applied.
+ 
+ ![Binary Representation of a Computer|100x100](Attachments/BinaryRepresentation.png)
