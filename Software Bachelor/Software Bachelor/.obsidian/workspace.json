@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f06bb49ceaed6eb",
+  "active": "b665d32f23a293ac",
   "lastOpenFiles": [
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
