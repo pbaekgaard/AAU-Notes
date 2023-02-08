@@ -15,4 +15,11 @@ This lecture was a quick description of what the course will be about. Furthermo
 
 Notes: [[Overview of the course and Language Processors]]
 
-Exercises: [[Lecture 1 - Exercises]]
+Exercises: [[Overview of the course and Language processors - Exercises]]
+
+
+## 2. Programming Language Evolution and Tombstone Diagrams
+
+Notes: [[Programming Language Evolution and Tombstone Diagrams]]
+
+Exercises: [[Programming Language Evolution and Tombstone Diagrams - Exercises]]
