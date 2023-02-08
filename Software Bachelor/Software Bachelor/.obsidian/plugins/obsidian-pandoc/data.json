@@ -7,7 +7,7 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": "/usr/bin/pandoc",
+  "pandoc": "",
   "pdflatex": "/usr/bin/pdflatex",
   "outputFolder": "/home/flcky98/Notes",
   "extraArguments": "",
