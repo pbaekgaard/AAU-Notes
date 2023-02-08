@@ -72,3 +72,16 @@ Lisp is a functional language that was introduced in relation to *AI Development
 
 ## Data Structures
 Pure Lisp consists of two data structures: *atoms* and *lists*. Atoms are symbols in the form of identifiers or numeric literals. Lists are denoted by parentheses and can be nested. Internally lists are stored as single-linked lists structures, in which each node has two pointers and represents a list element.
+
+![Internal representation of two Lisp lists|700](Attachments/InternalRepresentationofTwoLispLists.png)
+
+## Syntax
+Lisps syntax is exactly like the data. Parenthesized lists. 
+
+	(A B C D)
+
+When interpreted as data, it is a list of four elements. When viewed as code, it
+is the application of the function named A to the three parameters B, C, and D.
+
+## Descendants
+Scheme and Common Lisp are two descendants of Lisp. Scheme is suitable for courses in functional programming and general introductions to programming while Common Lisp has a large number of data types and structures. Common Lisp was developed to create a more portable 
