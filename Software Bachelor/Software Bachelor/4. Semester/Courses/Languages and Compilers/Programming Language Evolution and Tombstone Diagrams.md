@@ -46,9 +46,29 @@ The environment in which the Fortran was developed was as follows:
 3. There were no existing efficient and effective ways to program computers.
 4. Because of the high cost of computers compared to the cost of programmers, speed of the generated object code was the primary goal of the first Fortran compilers. 
 ## Fortran I Overview
+All of Fortran I's control statements were based on 704 instructions.
+Fortran I has no data-typing statements. Variables I, J, K, L, M, N were implicitly integers. i, j, k where used by the science community and was therefore used L, M, N was added as additional variables.
 
+Fortran halved the efficiency of the compiler compared to by hand.
 ## Fortran II
+Fortran II added independent compilation and fixed bugs.
 
 ## Fortrans IV, 77, 90, 95, 2003, 2008
+Fortran IV was widely used and standardized as Fortran 66. 
+Fortran 66 introduced explicit type declarations for variables, a logical if construct and capability of passing subprograms as parameters to other subprograms.
 
-## Evaluation
+Later replaced by Fortran 77. 77 added character string handling, logical loop control statements and in with an optional else.
+
+Fortran 90 added dynamic arrays, records, pointers, multiple selection statements, modules and recursion of subprograms. Fortran 90 recommended some features for removal for later versions
+
+More on Fortran read page 67 in Sebesta.
+
+
+
+
+# Functional Programming: Lisp
+Lisp is a functional language that was introduced in relation to *AI Development*. The earliest version was refered to as *Pure Lisp* as it was purely a functional language. It was developed as no other standard language existed for AI work. It was developed as an implementation of the program **Advice Taker**.
+
+
+## Data Structures
+Pure Lisp consists of two data structures: *atoms* and *lists*. Atoms are symbols in the form of identifiers or numeric literals. Lists are denoted by parentheses and can be nested. Internally lists are stored as single-linked lists structures, in which each node has two pointers and represents a list element.
