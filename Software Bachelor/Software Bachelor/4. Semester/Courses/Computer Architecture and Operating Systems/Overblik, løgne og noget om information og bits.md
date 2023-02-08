@@ -108,4 +108,85 @@ Hexadecimals are more compact that decimals and binary numbers. Simultaneously i
  In a computer the binary representation is explained by the voltage range. Low voltage at about **0.0V to 0.5V represents a 0**, while a high voltage of about **2.8V to 3.3V represents a 1**. There is a clear separation between the values so there are no mistakes.
  The charge required for the high or low voltage take abit of time before the charge is applied.
  
- ![Binary Representation of a Computer|100x100](Attachments/BinaryRepresentation.png)
+ ![Binary Representation of a Computer|700](Attachments/BinaryRepresentation.png)
+
+## Notation for byte values
+
+**Byte = 8 bits**
+**Binary: 00000000<sub>2</sub> to 11111111<sub>2</sub>**
+**Decimal: 0<sub>10</sub> to 255<sub>10</sub>**
+**Hexa-decimal: 00<sub>16</sub> to FF<sub>16</sub>**
+
+Bytes are the smallest datatype the processor can find the and read from the memory.
+
+# Memorymodel
+## A simple machine-model
+The processing unit (CPU) and the memory (RAM) closely work together. The CPU will ask the memory for a specific location that it wants to manipulate or access. In return the CPU can receive data or instructions from the RAM.
+
+### Inside the modules
+
+#### CPU
+Inside the CPU we have the current instructions that it is working on.
+It houses some calculation-units (addition, subtraction etc.)
+And it has a register of local data.
+
+#### RAM
+The RAM can house Code (instructions), global data, Heaps and Stacks
+
+## Byte-based memorymodel
+We can think of the byte-based memory as **huge array of bytes**. In an array each location has an index, which in memory terms are called an [[Address]]. Each element in the array can house 1 byte. 
+
+### Example of ASCII in a byte-based memory
+Each letter in an ASCII string is exactly 1 byte. You therefore allocate each letter after each other in the "byte-array".
+An example of this is the ASCII string "Hej med jer!".
+We convert each letter into their ASCII value and place them after each other into the memory.
+
+
+| Bytes | Addr.    |
+| ----- | -------- |
+|       | 00000000 |
+|       | 00000001 |
+|       | 00000002 |
+|       | 00000003 |
+| 72    | 00000004 |
+| 101   | 00000005 |
+| 106   | 00000006 |
+| 32    | 00000007 |
+| 109   | 00000008 |
+| 101   | 00000009 |
+| 106   | 00000010 |
+| 32    | 00000011 |
+| 106   | 00000012 |
+| 101   | 00000013 |
+| 114   | 00000014 |
+| 33    | 00000015 |
+
+
+
+### Operating systems and Memory
+In real life scenarios the processing unit allocates virtual addresses in the memory. As an abstraction this can be seen as a very very big byte-array. In reality, there can been more RAM modules and there is a hierarchy of different memorytypes.
+
+The operating systems allocates a private address-space for each process (application). Inside this *private area* the application is free to overwrite data and manipulate, however **it cannot overwrite other private areas**.
+The operating system and hardware work together translating the virtual addresses into physical actual addresses on the RAM modules.
+
+## Words
+Words are a combination of bits that the computer can work with as a natural unit.
+
+Words are **typeless**.
+
+The datatype is reliant what we express it as (signed/unsigned) int, float, instruction, pointer etc.
+
+The length of a word is typically 8, 16, 32 or 64 bits. (power of 2)
+
+### Word Size in Architecture
+When talking about fx. a 64bit architecture (AARCH64 or x86-64), we are talking about the maximum word size the architecture can handle in one operation.
+
+Earlier PC's used 32bit architectures, while modern new PC's use 64bit.
+
+### Organizing words in the memory
+The organization of words depend on their bit-size.
+
+#### 32-Bit
+Say you have an array of 4 32-Bit words. One as previously mentioned on this page  
+
+#### 64-Bit
