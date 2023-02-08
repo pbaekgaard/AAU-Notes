@@ -9,7 +9,7 @@
   "highDPIDiagrams": true,
   "pandoc": "",
   "pdflatex": "/usr/bin/pdflatex",
-  "outputFolder": "/home/flcky98/Notes",
+  "outputFolder": "/home/flcky98/Notes/Compiled Notes",
   "extraArguments": "",
   "exportFrom": "html"
 }
