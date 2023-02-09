@@ -10,7 +10,7 @@ The course consists of the topics [[Formal Language Theory]] and [[Programming-l
 
 # Topics
 
-## 0. Introduction and Preliminaries
+## 0. Mathematic Preliminaries and Notation
 Introduction to the course; mathematical notation (sets, sequences & tuples, relations, functions, Boolean logic); types of proofs (by construction, by contradiction, by induction).
 
 Notes: [[Introduction and Preliminaries]]
