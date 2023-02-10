@@ -6,6 +6,8 @@ Below can be seen the different tombstone "versions" and their meaning.
 # Use
 Tombstone diagrams are a way of illustrating the process or lifecycle of a program going from a certain language to another that is executable by the target machine. For example, if you have a program *X*, written in Language *Y*, on a machine that uses language *Z*. You would not be able to run the said program on the machine as the language used by the actual machine, is not the same as what was written for the program. This is where [[Compilers]] come in. A compiler is needed to translate the program from Language *Y* into language *Z*.
 
+# What is a Compiler
+A compiler is essentially just a program. The Purpose of a compiler is to translate specific language into another and give that as the output. A Compiler therefore takes an input language and an output language. Fx. a C-compiler for an *x86* machine, would take an input of a *.c* file. and the output would be *x86 machine code*. 
 
 # Cross-compilation
 Cross-compilation is used when a program is written in language *X* for a target language *Y* on a machine using language *Z*. By cross-compilation, a compiler is used to compile the language into the language of the target machine rather the language of the same machine. A compiler used for cross compilation therefore uses language *Z* going from language *X* to *Y*. This is illustrated in the picture below:
@@ -41,4 +43,16 @@ The downside of using interpreters is that you are essentially giving the source
 Bootstrapping is writing a compiler in the same language as the source language that is to be compiled. ![[Pasted image 20230210101956.png]]
 ![[Pasted image 20230210102211.png]]
 
-As seen on the illustrations, You want to implement a *Java* to *Machine Code* compiler written in *Java*. This is done by using a *Java* to *JVM*
+As seen on the illustrations, You want to implement a *Java* to *Machine Code* compiler written in *Java*. This is done by using a *Java* to *JVM* compiler, which generates a *Java* to *Machine Code* Compiler for the *JVM* interpreter. So by now it could be used if it is run with a *JVM* interpreter. However to complete compile, we using the *Java* to *Machine Code* compiler for *JVM*, to compile the initial *Java* to *Machine Code* In *Java* into the *Java* to *Machine Code* for *Machine Code*. 
+
+
+## The satanic way lol
+You can write a compiler from a certain language *X* to *Y* in language *Z*. Then use a *Z* to *X* compiler to get a compiler from *X* to *Y* written in *X*.
+
+Using the very same output compiler to compiler it self would yield a new compiler that can be used. See the illustration below for a *JVM* to *M* compiler this way.![[Pasted image 20230210103231.png]]![[Pasted image 20230210103249.png]]
+![[Pasted image 20230210103417.png]]
+
+
+## Compiling a faster compiler using bootstrapping
+Compiling a fast compiler can be done using bootstrapping:
+![[Pasted image 20230210103643.png]]
