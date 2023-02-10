@@ -14,6 +14,7 @@ The _Languages and Compilers_ course aims to gain knowledge of important princip
 This lecture was a quick description of what the course will be about. Furthermore an introduction to the definition and implementation of programming languages and compilers. This includes talk about [[Syntax and Semantics]].
 
 Notes: [[Overview of the course and Language Processors]]
+		[[Tombstone Diagrams]]
 
 Exercises: [[Overview of the course and Language processors - Exercises]]
 
