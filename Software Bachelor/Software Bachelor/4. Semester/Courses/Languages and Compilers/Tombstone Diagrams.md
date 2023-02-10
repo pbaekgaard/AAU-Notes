@@ -29,4 +29,16 @@ Compiling a compiler, works as seen below:
 In the illustration a compiler for *Java* to *x86* is written in *C*. A *C* to *x86* compiler is then used to translate said compiler into *x86* machine code so it can run on the *x86* host machine. In the end you have compiled a *Java* to *x86* compiler written in *C* into a *Java* to *x86* compiler in *x86*.
 
 # Interpreters (Aka. Abstract (or virtual) machine)
-Interpreters work as a translation layer. Fx. you can have 
+Interpreters work as a translation layer between the language of the program and the machine. In this case the program is never compiled. This makes the program more portable. As the source code can just be send to anyone, and it is up to them to have an interpreter to translate the language for them.
+
+## Intermediate Translation
+The downside of using interpreters is that you are essentially giving the source code out publicly to someone else. Through intermediate translation you as the developer can compile the language as close to machine code as possible, while still allowing it to be run through an interpreter. Intermediate Translation is closely related to Two Stage Compilation.
+
+
+## Interpreter vs Compiler
+![[Pasted image 20230210101629.png]]
+# Bootstrapping
+Bootstrapping is writing a compiler in the same language as the source language that is to be compiled. ![[Pasted image 20230210101956.png]]
+![[Pasted image 20230210102211.png]]
+
+As seen on the illustrations, You want to implement a *Java* to *Machine Code* compiler written in *Java*. This is done by using a *Java* to *JVM*
