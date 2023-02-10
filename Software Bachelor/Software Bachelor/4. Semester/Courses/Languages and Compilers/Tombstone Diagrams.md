@@ -55,4 +55,4 @@ Using the very same output compiler to compiler it self would yield a new compil
 
 ## Compiling a faster compiler using bootstrapping
 Compiling a fast compiler can be done using bootstrapping:
-![[Pasted image 20230210103643.png]]
+![[Pasted image 20230210103643.png]] test
