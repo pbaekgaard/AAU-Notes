@@ -11,11 +11,9 @@
             "id": "3d3129288ee239ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
-                "mode": "source",
-                "source": true
+                "file": "4. Semester/Attachments/Pasted image 20230213140904.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
+                "file": "4. Semester/Attachments/Pasted image 20230213140904.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
+                "file": "4. Semester/Attachments/Pasted image 20230213140904.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md"
+                "file": "4. Semester/Attachments/Pasted image 20230213140904.png"
               }
             }
           },
@@ -158,15 +156,15 @@
   },
   "active": "3d3129288ee239ec",
   "lastOpenFiles": [
+    "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
+    "4. Semester/Courses/Languages and Compilers/Recursive Descent.md",
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
-    "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
     "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
     "4. Semester/Courses/Languages and Compilers/Programming Language Evolution and Tombstone Diagrams.md",
     "4. Semester/Daily Notes/2023-02-09.md",
     "4. Semester/Courses/Syntax and Semantics/Introduction and Preliminaries.md",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
-    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
-    "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits - Exercises.md"
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md"
   ]
 }

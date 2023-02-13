@@ -54,9 +54,15 @@ In the syntax analysis part of the compiler, the grammar of a language is checke
 
 #### Scanner
 The scanner reads the code file letter by letter and finds [[Tokens]]. Fx. it will find *f*, *u*, *n* and *c* in a row and know its a function declaration etc. These tokens are then used as inputs in the Parser.
+![[Pasted image 20230213141407.png]]
+The image above shows the code of an example Scanner. The scanner reads the code and returns a token if it is applicable, or an error if not. If the scanner gets to the end of file it returns the *$* token.
+![[Pasted image 20230213141624.png]]
+ScanDigit is used to specify for integer numbers or float numbers. It concatenates the numbers it receives. If it doesn't find a *dot*, tok.type is set as an integer, else its a float. and it will concatenate all numbers after the dot. and finally return the token with its type and value.
 
-#### Parser
+#### Parsing
 The Parser makes sure the syntactic phrasing is correct.
+For AC, the [[Recursive Descent]] technique is used.
+The result of parsing is [[Abstract Syntax tree]]
 
 ### Contextual Analysis
 In the Context Analysis we check for the rules of the Scope and Types. Out of this phases the decorated abstract syntax tree is generated which is a further elaboration of the Abstract Syntax Tree from the Syntax Analysis. These rules are also called [[Static Semantics]].
@@ -75,6 +81,29 @@ In Code Generation, Semantics are further elaborated [[Dynamic Semantics]].
 
 
 
-# Sentential Form
+## Sentential Form
+Take an example of using the AC language to do the following:
+```
+f b
+i a
+a = 5
+b = a + 3.2
+p b
+$
+```
+The code above declares a *float b*, *int a* and performs addition and then prints.
+
 ![[Pasted image 20230213140254.png]]
-The figure above explains how a program is expanded through its [[Context-free grammar (CFG)]]. As seen on the right side, *Prog* can be rewritten as *Dcls Stmts $*. On the left side, line two this is exactly what is done. Then *Dcls* are elaborated as *Dcl Dcls*, and *Dcl* as **
+The figure above explains how a program is expanded through its [[Context-free grammar (CFG)]]. As seen on the right side, *Prog* can be rewritten as *Dcls Stmts $*. On the left side, line two this is exactly what is done. Then *Dcls* are elaborated as *Dcl Dcls*, and *Dcl* as *floatdcl id*. The next *Dcls* is then changed to *Dcl Dcls* again, and the *Dcl* is changed into *intdcl id*. This goes on until line 20 where we see the format of the code above. This is how the compiler checks if the code format is correct. If any deviation happens that doesn't match, there is an error in the code.
+
+## Syntax Tree
+![[Pasted image 20230213140904.png]]
+The illustration above explains the same program as a Syntax Tree.
+
+## Token Specification
+The token specification determines the Tokens for the Terminals.
+![[Pasted image 20230213141032.png]]
+The *+* sign indicates one or more times. Fx. inum is a number between 0-9 one or more times. So fx 53 is 5 and 3.
+
+
+## Parse tree vs Syntax tree
