@@ -96,10 +96,6 @@ The code above declares a *float b*, *int a* and performs addition and then prin
 ![[Pasted image 20230213140254.png]]
 The figure above explains how a program is expanded through its [[Context-free grammar (CFG)]]. As seen on the right side, *Prog* can be rewritten as *Dcls Stmts $*. On the left side, line two this is exactly what is done. Then *Dcls* are elaborated as *Dcl Dcls*, and *Dcl* as *floatdcl id*. The next *Dcls* is then changed to *Dcl Dcls* again, and the *Dcl* is changed into *intdcl id*. This goes on until line 20 where we see the format of the code above. This is how the compiler checks if the code format is correct. If any deviation happens that doesn't match, there is an error in the code.
 
-## Syntax Tree
-![[Pasted image 20230213140904.png]]
-The illustration above explains the same program as a Syntax Tree.
-
 ## Token Specification
 The token specification determines the Tokens for the Terminals.
 ![[Pasted image 20230213141032.png]]
@@ -107,3 +103,11 @@ The *+* sign indicates one or more times. Fx. inum is a number between 0-9 one o
 
 
 ## Parse tree vs Syntax tree
+The Parse tree shows all the *Dcls*, *Stmt*, *Expr* of a program and actually uses the assignment symbols etc. It is very big and overly complicated compared to the [[Abstract Syntax tree]].
+
+The parse tree looks like the following:
+
+![[Pasted image 20230213143627.png]]
+
+While the [[Abstract Syntax tree]] looks like the following:
+![[Pasted image 20230213143653.png]]
