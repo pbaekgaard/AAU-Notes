@@ -4,20 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "277b09a957245501",
+        "id": "a2f948f64c1a037f",
         "type": "tabs",
+        "dimension": 25.919540229885058,
         "children": [
           {
-            "id": "3d3129288ee239ec",
+            "id": "2f06bb49ceaed6eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler - Exercises.md",
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
                 "mode": "source",
+                "source": false
+              }
+            },
+            "group": "07346ede6eb4480f"
+          }
+        ]
+      },
+      {
+        "id": "7f4eb61ce0cd398d",
+        "type": "tabs",
+        "dimension": 74.08045977011494,
+        "children": [
+          {
+            "id": "04a4331393b27481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "07346ede6eb4480f"
           }
         ]
       }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler - Exercises.md",
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler - Exercises.md",
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler - Exercises.md"
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md"
               }
             }
           },
@@ -156,17 +178,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d3129288ee239ec",
+  "active": "2f06bb49ceaed6eb",
   "lastOpenFiles": [
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
-    "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
-    "4. Semester/Attachments/Pasted image 20230213140904.png",
-    "4. Semester/Courses/Languages and Compilers/Recursive Descent.md",
-    "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
-    "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
-    "4. Semester/Courses/Languages and Compilers/Programming Language Evolution and Tombstone Diagrams.md",
-    "4. Semester/Daily Notes/2023-02-09.md",
-    "4. Semester/Courses/Syntax and Semantics/Introduction and Preliminaries.md",
-    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md"
+    "4. Semester/Courses/Languages and Compilers/Lecture 1 - Exercises.md",
+    "4. Semester/Courses/Languages and Compilers/Overview of the course and Language Processors.md",
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
+    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
+    "4. Semester/Test.md",
+    "4. Semester/Templates/Class Notes.md",
+    "4. Semester/Templates/Daily Notes.md",
+    "4. Semester/Daily Notes/Daily Notes.md",
+    "4. Semester/Books/CraftingACompiler.pdf"
   ]
 }

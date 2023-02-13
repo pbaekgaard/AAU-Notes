@@ -54,9 +54,10 @@ In the syntax analysis part of the compiler, the grammar of a language is checke
 
 #### Scanner
 The scanner reads the code file letter by letter and finds [[Tokens]]. Fx. it will find *f*, *u*, *n* and *c* in a row and know its a function declaration etc. These tokens are then used as inputs in the Parser.
-![[Pasted image 20230213141407.png]]
-The image above shows the code of an example Scanner. The scanner reads the code and returns a token if it is applicable, or an error if not. If the scanner gets to the end of file it returns the *$* token.
-![[Pasted image 20230213141624.png]]
+![[Pasted image 20230213195849.png]]
+
+The image above shows the code of an example Scanner. The scanner reads the code and returns a single token if it is applicable, or an error if not. If the scanner gets to the end of file it returns the *$* token.
+![[Pasted image 20230213195927.png]]
 ScanDigit is used to specify for integer numbers or float numbers. It concatenates the numbers it receives. If it doesn't find a *dot*, tok.type is set as an integer, else its a float. and it will concatenate all numbers after the dot. and finally return the token with its type and value.
 
 #### Parsing
