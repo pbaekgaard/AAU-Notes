@@ -24,3 +24,8 @@ Exercises: [[Overview of the course and Language processors - Exercises]]
 Notes: [[Programming Language Evolution and Tombstone Diagrams]]
 
 Exercises: [[Programming Language Evolution and Tombstone Diagrams - Exercises]]
+
+
+## 3. The AC Language and Compiler
+
+Notes: [[The AC Language and Compiler]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md"
+                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   "active": "3d3129288ee239ec",
   "lastOpenFiles": [
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
     "4. Semester/Courses/Languages and Compilers/Programming Language Evolution and Tombstone Diagrams.md",
     "4. Semester/Daily Notes/2023-02-09.md",
     "4. Semester/Courses/Syntax and Semantics/Introduction and Preliminaries.md",
@@ -186,7 +187,6 @@
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits - Exercises.md",
     "4. Semester/Attachments/AssemblyToMachineLittleEndIan.png",
-    "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
-    "4. Semester/Courses/Syntax and Semantics/Formal Language Theory.md"
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md"
   ]
 }
