@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "9938b22c3222efd7"
-          }
-        ]
-      },
-      {
-        "id": "e884c7423299261b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0106872c2db31658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "9938b22c3222efd7"
+            }
           }
         ]
       }
