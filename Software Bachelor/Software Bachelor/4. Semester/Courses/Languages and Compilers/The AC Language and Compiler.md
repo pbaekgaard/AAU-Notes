@@ -50,11 +50,31 @@ The different phases in the compiler has a One-To-One correspondance between the
 ![[Pasted image 20230213132813.png]]
 ### Syntax Analysis
 After the syntax analysis an [[Abstract Syntax tree]]is created.
-In the syntax analysis part of the compiler, the grammar of a language is checked. Through the language specification *Regular Expressions* and *Context-Free Grammar* is specified which determint
+In the syntax analysis part of the compiler, the grammar of a language is checked. Through the language specification *Regular Expressions* and *Context-Free Grammar* is specified which determines the rules that the Syntax Analysis should check for.
+
+#### Scanner
+The scanner reads the code file letter by letter and finds [[Tokens]]. Fx. it will find *f*, *u*, *n* and *c* in a row and know its a function declaration etc. These tokens are then used as inputs in the Parser.
+
+#### Parser
+The Parser makes sure the syntactic phrasing is correct.
+
 ### Contextual Analysis
-In the Context Analysis we check for types and scopes. Out of this phases the decorated abstract syntax tree is generated which is a further elaboration of the Abstract Syntax Tree from the Syntax Analysis.
+In the Context Analysis we check for the rules of the Scope and Types. Out of this phases the decorated abstract syntax tree is generated which is a further elaboration of the Abstract Syntax Tree from the Syntax Analysis. These rules are also called [[Static Semantics]].
+
+#### Symbol table
+The symbol table is created from the [[Abstract Syntax tree]].
+
+#### Semantic Analysis
+In the Semantic Analysis the [[Abstract Syntax tree]] is decorated.
+
 ### Code Generation
 The output of the code generation is either an executable program or a program in another seperate language that can be further compiled.
 
+In Code Generation, Semantics are further elaborated [[Dynamic Semantics]].
 
 
+
+
+# Sentential Form
+![[Pasted image 20230213140254.png]]
+The figure above explains how a program is expanded through its [[Context-free grammar (CFG)]]. As seen on the right side, *Prog* can be rewritten as *Dcls Stmts $*. On the left side, line two this is exactly what is done. Then *Dcls* are elaborated as *Dcl Dcls*, and *Dcl* as **
