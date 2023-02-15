@@ -48,3 +48,42 @@ The reason the last evaluation is the signed being the bigger number, is because
 In UNIX there was a problem in which it was possible to access more than allowed from the kernel. This was done by using a negative number in a function that used unsigned integers. The negative number was therefore converted into a large positive number.
 
 The code for the function did have some security to it, by checking if the number specified in the function was larger than the allowed buffer size. However, since this if statement that checked for this was implemented using signed integers, it didn't revert to the maximum allowed buffer when specifying a negative number.
+
+# Arithmetic and Over-/under-flow
+When adding and multiplying numbers, the result can be greater than the assigned memory size. Fx. if adding negative numbers using Two's complement of size 4 bits, the result would give us a number of size 5 bits.
+The same can happen for larger positive numbers written in plain binary.
+
+When this happens, we use modular arithmetic. 
+
+Example:
+
+```
+w=4, 8+11=19
+  1000
++ 1011
+------
+10011  //19 mod 2^4 = 3
+```
+
+Simply put, we do the following:
+$true\,value\:\:\: mod\:\:\: 2^w$
+
+# Shifting
+Shifting is basically moving the binary pattern
+
+Say you have the binary number 1011001
+
+And we shit this to the left by 3 we get the following:
+1001000.
+We simply "move" the binary numbers to the left. When a number exceeds the binary pattern it gets removed and 0's get added on the other side.
+
+Shifting to the right is the same. However for right-shift there's also the Logical shift and the Arithmetic shift.
+
+## Logical shift
+By logical shift we do as for the left-shift, we simply fill with 0's at the left side of the binary number.
+
+## Arithmetic Shift
+With Arithmetic shift we repeat the most valued bit from the argument to the right
+
+Below is an example of both Logical and Arithmetic shift for both left and right shift.
+![[Pasted image 20230215094852.png]]
