@@ -6,7 +6,7 @@
       {
         "id": "a2f948f64c1a037f",
         "type": "tabs",
-        "dimension": 49.94388327721661,
+        "dimension": 55.05747126436782,
         "children": [
           {
             "id": "2f06bb49ceaed6eb",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md",
+                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "7f4eb61ce0cd398d",
         "type": "tabs",
-        "dimension": 50.05611672278339,
+        "dimension": 44.94252873563218,
         "children": [
           {
             "id": "04a4331393b27481",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md",
+                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md",
+                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md",
+                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md"
+                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md"
               }
             }
           },
@@ -180,15 +180,15 @@
   },
   "active": "2f06bb49ceaed6eb",
   "lastOpenFiles": [
-    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
-    "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md",
-    "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
+    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
     "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Languages and Compilers/Lecture 1 - Exercises.md",
     "4. Semester/Courses/Languages and Compilers/Overview of the course and Language Processors.md",
-    "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Test.md",
-    "4. Semester/Templates/Class Notes.md"
+    "4. Semester/Templates/Class Notes.md",
+    "4. Semester/Templates/Daily Notes.md",
+    "4. Semester/Daily Notes/Daily Notes.md"
   ]
 }

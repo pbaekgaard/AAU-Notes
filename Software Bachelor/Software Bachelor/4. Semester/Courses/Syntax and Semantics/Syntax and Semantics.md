@@ -14,3 +14,8 @@ The course consists of the topics [[Formal Language Theory]] and [[Programming-l
 Introduction to the course; mathematical notation (sets, sequences & tuples, relations, functions, Boolean logic); types of proofs (by construction, by contradiction, by induction).
 
 Notes: [[Introduction and Preliminaries]]
+
+# 1. Finite Automata and Regular Languages
+
+Notes: [[Finite Automata and Regular Languages]]
+
