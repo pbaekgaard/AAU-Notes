@@ -31,3 +31,7 @@ Exercises: [[Programming Language Evolution and Tombstone Diagrams - Exercises]]
 Notes: [[The AC Language and Compiler]]
 
 Exercises: [[The AC Language and Compiler - Exercises]]
+
+## 4. Language Specification
+
+Notes: [[Language Specification]]

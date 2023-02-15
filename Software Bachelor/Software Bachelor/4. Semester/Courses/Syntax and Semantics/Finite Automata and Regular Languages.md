@@ -32,8 +32,25 @@ language is prefix-free if no member is a proper prefix of another member.
 # Finite Automata
 A Finite Automaton is a machine that has very limited memory and only few states. Fx. a door at a shop has a Finite Automata detecting when to open and close the door.
 
-## Formal Definition
+## Formal Definition of Finite Automaton
 
 In the formal definition we use $\delta$ to depict the transition function. If a finite automaton has an arrow from x to y from input 1, we indicate that by $\delta(x,1)=y$. ![[Pasted image 20230215202519.png]]
 ### Example of formal definition
 ![[Pasted image 20230215202714.png]]
+
+Describing a finite automaton by state diagram is not possible in some cases (too big to draw or unspecified parameters).
+
+## Formal Definition of Finite Automaton's Computation
+![[Pasted image 20230215203452.png]]
+
+## Regular Language
+A language is called a *regular language* if some finite automaton recognizes it.
+
+
+### Regular language operations
+![[Pasted image 20230215203611.png]]
+
+![[Pasted image 20230215203618.png]]
+
+![[Pasted image 20230215203635.png]]
+![[Pasted image 20230215203649.png]]

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Language Specification.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Language Specification.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Language Specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Language Specification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md"
+                "file": "4. Semester/Courses/Languages and Compilers/Language Specification.md"
               }
             }
           },
@@ -180,15 +180,15 @@
   },
   "active": "2f06bb49ceaed6eb",
   "lastOpenFiles": [
+    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "4. Semester/Courses/Languages and Compilers/Language Specification.md",
+    "4. Semester/Courses/Syntax and Semantics/Finite Automata and Regular Languages.md",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
     "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
-    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Languages and Compilers/Lecture 1 - Exercises.md",
     "4. Semester/Courses/Languages and Compilers/Overview of the course and Language Processors.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Test.md",
-    "4. Semester/Templates/Class Notes.md",
-    "4. Semester/Templates/Daily Notes.md",
-    "4. Semester/Daily Notes/Daily Notes.md"
+    "4. Semester/Templates/Class Notes.md"
   ]
 }
