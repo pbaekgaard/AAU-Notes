@@ -35,3 +35,9 @@ Exercises: [[The AC Language and Compiler - Exercises]]
 ## 4. Language Specification
 
 Notes: [[Language Specification]]
+
+## 5. Context Free Grammars
+
+
+## 6. Lexical Analysis
+Notes: [[Lexical Analysis]]
