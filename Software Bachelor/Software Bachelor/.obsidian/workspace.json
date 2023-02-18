@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+                "file": "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md"
+                "file": "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "2f06bb49ceaed6eb",
   "lastOpenFiles": [
-    "4. Semester/Courses/Languages and Compilers/Lexical Analysis.md",
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "4. Semester/Courses/Languages and Compilers/Lexical Analysis.md",
     "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",

@@ -1,6 +1,9 @@
 Context-free grammar consists of LHS(Left-hand sides) and RHS(Right-hand sides).
 They can be though of a recursive equations.
 
+CFG is usually written in the [[BNF]] Notation.
+
+
 ![[Pasted image 20230213135229.png]]
 
 The picture above explains the following:
@@ -20,3 +23,8 @@ An expression is plus or minus, a value and an expression. Expressions can also 
 A value is either an identifier, and integer number or a float number.
 
 ![[Pasted image 20230213135837.png]]
+
+# Four-tuble
+A context-free grammar is a four-tuble:
+$G=(N,\sum,P,S)$
+![[Pasted image 20230218110210.png]]
