@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f948f64c1a037f",
+        "id": "de5fab95422a3076",
         "type": "tabs",
-        "dimension": 49.94388327721661,
         "children": [
           {
-            "id": "2f06bb49ceaed6eb",
+            "id": "feeee0047f75af78",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Software Bachelor/Software Bachelor/4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "9d2d65fb35cecd2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,41 +28,10 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "07346ede6eb4480f"
-          },
-          {
-            "id": "cf87df34f3d47a59",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "7f4eb61ce0cd398d",
-        "type": "tabs",
-        "dimension": 50.05611672278339,
-        "children": [
-          {
-            "id": "04a4331393b27481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "07346ede6eb4480f"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +167,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf87df34f3d47a59",
+  "active": "9d2d65fb35cecd2f",
   "lastOpenFiles": [
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "conflict-files-obsidian-git.md",
+    "4. Semester/Courses/Languages and Compilers/Context-free grammar (CFG).md",
+    "4. Semester/Courses/Syntax and Semantics/Regular Expressions.md",
+    "4. Semester/Courses/Syntax and Semantics/Nondeterministic Finite Automata.md",
+    "4. Semester/Courses/Syntax and Semantics/Generalized nondeterministic finite automaton.md",
     "4. Semester/Courses/Languages and Compilers/Lexical Analysis.md",
     "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",

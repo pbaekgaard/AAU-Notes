@@ -19,3 +19,9 @@ Notes: [[Introduction and Preliminaries]]
 
 Notes: [[Finite Automata and Regular Languages]]
 
+
+# 2. Nondeterministic Finite Automata
+Notes: [[Nondeterministic Finite Automata]]
+
+# 3. Regular Expressions
+Notes: [[Regular Expressions]]
