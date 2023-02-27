@@ -20,8 +20,19 @@
               }
             },
             "group": "07346ede6eb4480f"
+          },
+          {
+            "id": "cf87df34f3d47a59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7f4eb61ce0cd398d",
@@ -178,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f06bb49ceaed6eb",
+  "active": "cf87df34f3d47a59",
   "lastOpenFiles": [
     "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Languages and Compilers/Lexical Analysis.md",
