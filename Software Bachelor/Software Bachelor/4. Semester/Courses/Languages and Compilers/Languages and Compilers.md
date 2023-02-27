@@ -41,3 +41,6 @@ Notes: [[Language Specification]]
 
 ## 6. Lexical Analysis
 Notes: [[Lexical Analysis]]
+
+## 7. Top-down Parsing
+Notes: [[Top-down Parsing]]

@@ -1,6 +1,6 @@
 {
   "enabledOn": {
-    "desktop": false,
+    "desktop": true,
     "mobile": true
   },
   "minSize": 1000,
