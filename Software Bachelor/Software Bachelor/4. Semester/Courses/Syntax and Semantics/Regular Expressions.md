@@ -40,3 +40,21 @@ Remember, Union can be seen as adding something to the language. Fx. (ab U a) gi
 # Converting DFA into equivalent regular expressions
 
 To do this, we need to convert a DFA into a [[Generalized nondeterministic finite automaton]], GNFA. 
+
+## Convert DFA into GNFA
+To convert a DFA into GNFA:
+* We simply add a new start state with an ℇ arrow to the old start state and a new accept state with ℇ arrows from the old accept states.
+* If there are any arrows that have multiple labels, we replace each with a single arrow whose label is the union of the previous labels.
+* Finally we add arrows labeled ∅ between states that had no arrows. (A transition labeled with ∅, can never be used.)
+
+## Convert GNFA into Regular Expression
+To convert a GNFA into a regular expression we do the following:
+* Identify the number of states, (GNFA must have a start and accept state and therefore has atleast k≥2)
+* Construct an equivalent GNFA with k-1 states.
+* Repeat until k=2.
+	* The state between the two states in the last GNFA will be labeled with the equivalent regular expression.
+
+### Creating a GNFA with one fewer state
+To do this, we select a state, rip it out of the machine and repair the remainder so that the same language is still recognized. *Any state will do (NOT THE START OF ACCEPT STATE)*.
+
+After removing a state we repair the machine by altering the regular expressions that label each of the remaining arrows. The new labels compensate for the absence of the removed state by adding back the lost computations. The new label going from a state to another is a regular expression that describes all string that would take the machine from the state to the other directly or via the removed state. Example: 

@@ -3,7 +3,7 @@ Generalized nondeterministic finite automaton, are nondeterministic finite autom
 The GNFA reads blocks of symbols instead of just one symbol like an NFA. 
 
 
-# Conditions
+# Special Form Conditions
 * The start state has transition arrows going to every other state but no arrows
 coming in from any other state.
 * There is only a single accept state, and it has arrows coming in from every
