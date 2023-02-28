@@ -58,3 +58,4 @@ To convert a GNFA into a regular expression we do the following:
 To do this, we select a state, rip it out of the machine and repair the remainder so that the same language is still recognized. *Any state will do (NOT THE START OF ACCEPT STATE)*.
 
 After removing a state we repair the machine by altering the regular expressions that label each of the remaining arrows. The new labels compensate for the absence of the removed state by adding back the lost computations. The new label going from a state to another is a regular expression that describes all string that would take the machine from the state to the other directly or via the removed state. Example: 
+
