@@ -18,6 +18,16 @@ In Top Down, a value for A is available as the production is applied, and the sy
 # Synthesized and Inherited Attributes
 
 ## Synthesized attributes
-Synthesized attributes, is when a parent gets its value from its children on the parse tree.
+Synthesized attributes, is when a parent node gets its value from its children on the parse tree.
+![[Pasted image 20230307150612.png]]
+![[Pasted image 20230307151449.png]]
+![[Pasted image 20230307151521.png]]
+In the second picture above (with the red marker). The values are generated starting from the bottom (Bottom Up). The values are are calculated by the semantic action (semantic rule) shown on the last picture. 
 ## Inherited Attributes
-Inherited attributes, is when a node of the parse tree has its value determined by the parent and/or sibling;''
+Inherited attributes, is when a node of the parse tree has its value determined by the parent and/or siblings' node.
+![[Pasted image 20230307150617.png]]
+An example is in terms of type declaration. fx. D -> T L
+L inherits its type from T.
+[Synthesized and Inherited Attributes in Syntax directed definition(SDD) in compiler design - YouTube](https://youtu.be/Fk9GtuHaCHM?t=972) explains inherited attributes
+
+
