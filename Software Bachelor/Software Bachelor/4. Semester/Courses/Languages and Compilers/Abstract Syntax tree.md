@@ -31,3 +31,7 @@ L inherits its type from T.
 [Synthesized and Inherited Attributes in Syntax directed definition(SDD) in compiler design - YouTube](https://youtu.be/Fk9GtuHaCHM?t=972) explains inherited attributes
 
 
+# Bottom-Up Syntax-Directed Translation
+Bottom-up parser operates two stacks:
+* The syntactic stack (also called the parse stack) manipulates terminal and nonterminal symbols as described in Chapter 6 
+* The semantic stack manipulates semantic values associated with the grammar symbols.
