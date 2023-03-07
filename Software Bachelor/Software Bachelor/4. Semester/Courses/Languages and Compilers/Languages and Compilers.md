@@ -40,7 +40,13 @@ Notes: [[Language Specification]]
 [[Context-free grammar (CFG)]]
 
 ## 6. Lexical Analysis
-Notes: [[Lexical Analysis]]
+Notes: [[Lexical Analysis]] (MISSING)
 
 ## 7. Top-down Parsing
 Notes: [[Top-down Parsing]]
+
+## 8. Programming Languages and Compilers
+Notes: [[Programming Languages and Compilers]] (MISSING)
+
+## 9. Abstract Syntax Trees
+Notes: [[Abstract Syntax tree]]

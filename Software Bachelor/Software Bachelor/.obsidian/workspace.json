@@ -11,10 +11,11 @@
             "id": "2f06bb49ceaed6eb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Software Bachelor/Software Bachelor/4. Semester/Courses/Languages and Compilers/Programming Language Evolution and Tombstone Diagrams - Exercises.md",
-                "staged": true
+                "file": "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md"
+              }
             }
           },
           {
@@ -152,9 +157,10 @@
   },
   "active": "2f06bb49ceaed6eb",
   "lastOpenFiles": [
+    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
     "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
-    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Languages and Compilers/Overview of the course and Language Processors.md",
     "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
     "4. Semester/Courses/Languages and Compilers/Overview of the course and Language processors - Exercises.md",
