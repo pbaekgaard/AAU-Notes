@@ -9,4 +9,3 @@ The property states that all strings in a language can be *pumped* if they are a
 
 ![[Pasted image 20230305153654.png]]
 
-ö

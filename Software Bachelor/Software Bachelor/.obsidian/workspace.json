@@ -19,8 +19,19 @@
               }
             },
             "group": "9c07e70691667f32"
+          },
+          {
+            "id": "62e8e16f0286bbbc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a8ccfd76aca5d974",
@@ -176,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f31ca38ca8e32458",
+  "active": "62e8e16f0286bbbc",
   "lastOpenFiles": [
     "4. Semester/Attachments/Pasted image 20230305153654.png",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
