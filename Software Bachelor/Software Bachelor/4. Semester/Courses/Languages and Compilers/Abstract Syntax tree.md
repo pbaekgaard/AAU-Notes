@@ -35,3 +35,13 @@ L inherits its type from T.
 Bottom-up parser operates two stacks:
 * The syntactic stack (also called the parse stack) manipulates terminal and nonterminal symbols as described in Chapter 6 
 * The semantic stack manipulates semantic values associated with the grammar symbols.
+
+
+
+# Rule Cloning
+Rule cloning is duplicating a certain grammar to bypass the need for inherited attributes. Fx. ![[Pasted image 20230307162401.png]]
+
+The productions have been cloned, even though they are syntactically the same. However the associated Semantic Actions are **not** the same.
+
+# Forcing Semantic Actions
+ 
