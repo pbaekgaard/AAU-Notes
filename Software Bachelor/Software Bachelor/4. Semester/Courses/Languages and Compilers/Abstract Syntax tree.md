@@ -55,4 +55,40 @@ Overall, forcing semantic actions is a powerful technique that enables compilers
  - Above came from ChatGPT
 
 ## Aggressive Grammar Restructuring
-Aggressive Grammar Restructuring is about restructuring the parse tree so that information flows where it is needed for semantic actions. It is recommended to avoid global variables, so creating a parse tree that does not have global variables is recommended (this can be done by processing global variables earlier). Aggressive Grammar Restructuring can also cause subtle changes in the language, which should be carefully checked. A more robust way of doing so, is rewriting the grammar os
+Aggressive Grammar Restructuring is about restructuring the parse tree so that information flows where it is needed for semantic actions. It is recommended to avoid global variables, so creating a parse tree that does not have global variables is recommended (this can be done by processing global variables earlier). Aggressive Grammar Restructuring can also cause subtle changes in the language, which should be carefully checked. A more robust way of doing so, is rewriting the grammar so it can be based on synthesized attributes.
+
+# Top-Down Syntax-Directed Translation
+For Top-Down the semantic actions can be written straight into the parser
+Inherited values are simply stored as parameters into methods (we pass the values we want to pass down the parse tree into the parse_method).
+
+
+Synthesized values can be return values of methods.
+
+![[Pasted image 20230307174417.png]]
+
+
+
+# Single Pass Compilers
+The single pass compiler is based on the fact that it is the parser that drives all the other phases. We splice the contextual analysis and code generation into the code of the parser.
+![[Pasted image 20230307175242.png]]
+The CODE blocks explain the different contextual analysis and code generation code. CODE can be typechecking, codegeneration etc.
+
+Single Pass was designed for recursive descent parsers.
+AC-Parser without action code:
+![[Pasted image 20230307175423.png]]
+
+AC-parser with action code (single pass implemented):
+![[Pasted image 20230307175505.png]]
+
+# Multi Pass Compilers
+A multi pass compiler makes several passes over the program. The output of a phase is then stored and used by the subsequent phase.![[Pasted image 20230307175759.png]]
+
+Java is an example of a multi pass compiled language. Because we can use a variable before its declaration, contrary to C where you have to declare the variable before you can use it.
+
+This indicates that Java is Multi-Pass. It first checks for all declarations before it analyses the declarations use cases.
+
+# Abstract Syntax Trees
+AST is like a parse tree with some details omitted.
+See [[The AC Language and Compiler]] for more.
+
+
