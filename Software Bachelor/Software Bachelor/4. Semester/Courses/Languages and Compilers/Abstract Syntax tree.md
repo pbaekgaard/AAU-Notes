@@ -38,10 +38,21 @@ Bottom-up parser operates two stacks:
 
 
 
-# Rule Cloning
+## Rule Cloning
 Rule cloning is duplicating a certain grammar to bypass the need for inherited attributes. Fx. ![[Pasted image 20230307162401.png]]
 
 The productions have been cloned, even though they are syntactically the same. However the associated Semantic Actions are **not** the same.
 
-# Forcing Semantic Actions
- 
+## Forcing Semantic Actions
+"Forcing Semantic Actions" is a technique used in compiler design to associate semantic actions with specific grammar rules. In other words, it is a way to define what happens when a certain rule is matched during the parsing phase of the compilation process.
+
+Forcing semantic actions is achieved by adding code to the grammar rules themselves, in order to specify what should be done when a rule is reduced (i.e., when the rule has been matched and is ready to be processed).
+
+The purpose of forcing semantic actions is to enable the compiler to perform actions beyond simple syntax checking. For example, if the compiler is parsing a programming language, it may need to generate code, assign values to variables, or perform other operations that are specific to the language being compiled. By using semantic actions, the compiler can associate these operations with the corresponding grammar rules and ensure that they are executed at the appropriate time.
+
+Overall, forcing semantic actions is a powerful technique that enables compilers to do much more than simply check the syntax of the input program. It allows the compiler to generate code, perform optimizations, and enforce language-specific rules and restrictions, ultimately producing an executable program that behaves correctly according to the language specification.
+
+ - Above came from ChatGPT
+
+## Aggressive Grammar Restructuring
+Aggressive Grammar Restructuring is about restructuring the parse tree so that information flows where it is needed for semantic actions. It is recommended to avoid global variables, so creating a parse tree that does not have global variables is recommended (this can be done by processing global variables earlier). Aggressive Grammar Restructuring can also cause subtle changes in the language, which should be carefully checked. A more robust way of doing so, is rewriting the grammar os
