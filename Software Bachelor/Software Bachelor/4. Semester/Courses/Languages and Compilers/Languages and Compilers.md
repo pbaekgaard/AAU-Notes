@@ -49,4 +49,7 @@ Notes: [[Top-down Parsing]]
 Notes: [[Programming Languages and Compilers]] (MISSING)
 
 ## 9. Abstract Syntax Trees
-Notes: [[Abstract Syntax tree]]
+Notes: [[Abstract Syntax tree]] (Missing some notes, but has a lot)
+
+## 10. Scopes and Symbol Tables
+Notes:: [[Scopes and Symbol Tables]]
