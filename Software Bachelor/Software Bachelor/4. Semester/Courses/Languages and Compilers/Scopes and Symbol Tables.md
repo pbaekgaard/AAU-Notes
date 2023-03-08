@@ -39,39 +39,54 @@ Dynamic scoping refers to the place a function is called.
 Ex.
 ![[Pasted image 20230308134154.png]]
 
+Here if the we look at the x at the left side inside the *begin { sub1 ...*, x refers to the declaration inside *main*. BUT if we call *sub1* inside the * begin { sub2...* function, it refers to the x that is declared inside the sub2 procedure. 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Symbol Table Interface
+The Symbol Table Interface, handles the processing of the symbols. See blow:
+![[Pasted image 20230308134531.png]]
 
 
 # Block-Structured Languages and Scopes
+Languages that allow nested name scopes are known as block-structured languages. 
+
+The scope defined by the *innermost* context is known as the **current scope**.
+Scopes defined by the current scope and its surrounding scopes are known as *open scopes* or *currently active scopes*.
+
+Rules for interpretation of a name in the presence of multiple scopes:
+* At any point in the text of a program, the accessible names are those that
+are declared in the current scope and in all other open scopes.
+
+* If a name is declared in more than one open scope, then a reference to the
+name is resolved to the innermost declaration—the one that most closely
+surrounds the reference.
+
+* New declarations can be made only in the current scope.
+
+
+You can have a symbol table for each scope in a program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
