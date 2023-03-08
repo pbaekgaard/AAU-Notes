@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "bee453c1d70d7b9d"
-          }
-        ]
-      },
-      {
-        "id": "d0cbbe827d6366ce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1fa66b252985fb2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Binary Representation of Programs.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "bee453c1d70d7b9d"
+            }
           }
         ]
       }
