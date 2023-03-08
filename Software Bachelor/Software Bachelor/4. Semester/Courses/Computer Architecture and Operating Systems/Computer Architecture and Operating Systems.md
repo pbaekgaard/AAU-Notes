@@ -20,3 +20,6 @@ Exercises: [[Overblik, løgne og noget om information og bits - Exercises]]
 Notes: [[Repræsentation af signed and unsigned Integers]]
 
 Exercises: [[Repræsentation af signed/unsigned Integers - Exercises]]
+
+## 5. Binær repræsentation af programmer
+Notes: [[Binary Representation of Programs]]

@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f948f64c1a037f",
+        "id": "d0602b341f86f67d",
         "type": "tabs",
         "children": [
           {
-            "id": "2f06bb49ceaed6eb",
+            "id": "ec9b52a679657b81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md",
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Binary Representation of Programs.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "bee453c1d70d7b9d"
+          }
+        ]
+      },
+      {
+        "id": "d0cbbe827d6366ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fa66b252985fb2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Binary Representation of Programs.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "bee453c1d70d7b9d"
           }
         ]
       }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md",
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Binary Representation of Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md",
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Binary Representation of Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md"
+                "file": "4. Semester/Courses/Computer Architecture and Operating Systems/Binary Representation of Programs.md"
               }
             }
           },
@@ -155,10 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b665d32f23a293ac",
+  "active": "ec9b52a679657b81",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
+    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Binary Representation of Programs.md",
+    "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
     "4. Semester/Courses/Languages and Compilers/Abstract Syntax tree.md",
+    "conflict-files-obsidian-git.md",
     "4. Semester/Attachments/Pasted image 20230307175759.png",
     "4. Semester/Attachments/Pasted image 20230307175713.png",
     "4. Semester/Attachments/Pasted image 20230307175505.png",
@@ -169,9 +193,7 @@
     "4. Semester/Attachments/Pasted image 20230307151521.png",
     "4. Semester/Attachments/Pasted image 20230307151449.png",
     "4. Semester/Attachments/Pasted image 20230307150617.png",
-    "4. Semester/Courses/Languages and Compilers/Languages and Compilers.md",
     "4. Semester/Courses/Syntax and Semantics/Syntax and Semantics.md",
-    "4. Semester/Courses/Computer Architecture and Operating Systems/Computer Architecture and Operating Systems.md",
     "4. Semester/Courses/Languages and Compilers/Overview of the course and Language Processors.md",
     "4. Semester/Courses/Languages and Compilers/Tombstone Diagrams.md",
     "4. Semester/Courses/Languages and Compilers/Overview of the course and Language processors - Exercises.md",
@@ -190,8 +212,6 @@
     "4. Semester/Courses/Syntax and Semantics/Nondeterministic Finite Automata.md",
     "4. Semester/Courses/Syntax and Semantics/Formal Language Theory.md",
     "Repræsentation af signed/Repræsentation af signed and unsigned Integers.md",
-    "4. Semester/Courses/Computer Architecture and Operating Systems/Overblik, løgne og noget om information og bits.md",
-    "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md",
-    "4. Semester/Courses/Languages and Compilers/Lecture 1 - Exercises.md"
+    "4. Semester/Courses/Languages and Compilers/The AC Language and Compiler.md"
   ]
 }
