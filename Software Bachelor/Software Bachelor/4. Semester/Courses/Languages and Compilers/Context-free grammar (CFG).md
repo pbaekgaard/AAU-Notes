@@ -81,3 +81,25 @@ One variable is designated as the starting variable (prog, start etc.) it is the
 ## Definition
 ![[Pasted image 20230309084118.png]]
 
+## Derivations and Languages
+![[Pasted image 20230309085235.png]]
+
+
+
+## Designing Context-Free Languages
+There are some different tricks for designing Context-Free Languages
+
+### Divide & Conquer
+Sometimes languages or grammars are described as the union of simple CFG's or CFL's. In this case it is convenient to break down the design problem into smaller pieces.
+
+$S -> S_1 | S_{2} | \dots | s_{k}$.
+
+![[Pasted image 20230309091509.png]]
+
+### Regular Languages
+
+
+### Matching/Counting
+
+
+### Recursive Languages
