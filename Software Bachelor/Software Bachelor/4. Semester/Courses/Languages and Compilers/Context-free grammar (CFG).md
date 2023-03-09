@@ -63,6 +63,15 @@ A Grammar is ambiguous if and only if it generates a sentential form that has tw
 * If we use the parse tree to indicate precedence levels of the operators, we cannot have ambiguity.
 * Operator associativity can also be indicated by a grammar
 
+## From Syntax and Semantics
+
+A string *w* is derived ambiguously in context-free grammar *G* if it has two (or more) different *leftmost derivations*.
+
+*G* is ambiguous if it generates some string ambiguously.
+
+A grammar is *inherently ambiguous* if there is no unambiguous grammar generating it.
+
+
 
 ---
 # Syntax and Semantics
@@ -97,9 +106,16 @@ $S -> S_1 | S_{2} | \dots | s_{k}$.
 ![[Pasted image 20230309091509.png]]
 
 ### Regular Languages
-
+![[Pasted image 20230309092656.png]]
 
 ### Matching/Counting
-
+![[Pasted image 20230309093514.png]]
 
 ### Recursive Languages
+![[Pasted image 20230309093521.png]]
+
+
+## Chomsky Normal Form (CNF)
+![[Pasted image 20230309094748.png]]
+
+
