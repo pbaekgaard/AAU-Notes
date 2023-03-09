@@ -29,3 +29,6 @@ Notes: [[Regular Expressions]]
 
 # 4. Pumping Lemma for Regular Expressions
 Notes: [[Pumping Lemma for Regular Expressions]]
+
+# 5. Context-free Grammars
+Notes: [[Context-free grammar (CFG)]]

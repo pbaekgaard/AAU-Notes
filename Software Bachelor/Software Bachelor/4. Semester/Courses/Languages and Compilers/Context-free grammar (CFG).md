@@ -62,3 +62,22 @@ A Grammar is ambiguous if and only if it generates a sentential form that has tw
 
 * If we use the parse tree to indicate precedence levels of the operators, we cannot have ambiguity.
 * Operator associativity can also be indicated by a grammar
+
+
+---
+# Syntax and Semantics
+---
+
+Context-free languages contain regular languages. They are an extension of regular languages.
+
+## Conventions & Notation
+Non-terminals/Variables: CAPITAL letters
+Terminals: lower-case letters
+	$A\to 00A_{1}1 | B $ is {$A \to 00A_{1}1, A \to B$}
+One variable is designated as the starting variable (prog, start etc.) it is the 1st production rule.
+
+![[Pasted image 20230309083427.png]]
+
+## Definition
+![[Pasted image 20230309084118.png]]
+
