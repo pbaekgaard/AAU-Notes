@@ -118,4 +118,6 @@ $S -> S_1 | S_{2} | \dots | s_{k}$.
 ## Chomsky Normal Form (CNF)
 ![[Pasted image 20230309094748.png]]
 
+![[Pasted image 20230309095354.png]]
+![[Pasted image 20230309095401.png]]
 
