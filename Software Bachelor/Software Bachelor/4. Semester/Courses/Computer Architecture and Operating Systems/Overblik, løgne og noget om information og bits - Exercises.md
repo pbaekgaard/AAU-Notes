@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Overblik-l-gne-og-noget-om-information-og-bits-Exercises-e76d2573da1347d5ba34eb7eeb759af1
+notionID: e76d2573-da13-47d5-ba34-eb7eeb759af1
+---
 2. Problem 2.1 (p. 73)
 A. 0010 0101 1011 1001 1101 0010
 B. 1010 1110 0100 1001 -> 0xAE49
