@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Programming-Language-Evolution-and-Tombstone-Diagrams-7ce864b6c92b40fbaa6829121e241edc
+notionID: 7ce864b6-c92b-40fb-aa68-29121e241edc
+---
 # Zuse's Plankalkül
 Konrad Zuse built a series of complex and sophisicated computers from electromechanical relays. They were bombed but his Z4 was saved. He moved and worked on a programming language for it alone in a remote Bavarian village.
 

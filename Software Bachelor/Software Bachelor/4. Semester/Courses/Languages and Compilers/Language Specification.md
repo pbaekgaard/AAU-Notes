@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Language-Specification-f0e27a5d182e466ea489a1a2cd3a0ac4
+notionID: f0e27a5d-182e-466e-a489-a1a2cd3a0ac4
+---
 # Describing syntax
 There are two ways of describing the syntax of a language.
 

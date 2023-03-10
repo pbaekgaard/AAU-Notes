@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Abstract-Syntax-tree-3c80e5fcfa484ff4acb790721be653b9
+notionID: 3c80e5fc-fa48-4ff4-acb7-90721be653b9
+---
 The work performed by a compiler while parsing is generally termed syntax-directed translation. When constructing the derivation, a parser performs a sequence of syntactic actions (fx. shift and reduce).
 
 # Semantic Actions and Values

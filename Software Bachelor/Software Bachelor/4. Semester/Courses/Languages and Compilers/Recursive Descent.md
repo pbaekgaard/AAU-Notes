@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Recursive-Descent-26c3cbff31ab4da7bfe83ab42edfb766
+notionID: 26c3cbff-31ab-4da7-bfe8-3ab42edfb766
+---
 Resurive Descent technique is pretty much rewriting the [[Context-free grammar (CFG)]] as code.
 ![[Pasted image 20230213142452.png]]
 

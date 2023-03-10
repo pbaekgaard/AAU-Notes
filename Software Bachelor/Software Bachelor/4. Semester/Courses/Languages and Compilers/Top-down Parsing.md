@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Top-down-Parsing-d4f1fa6317eb43c0bc4e436b812c6da2
+notionID: d4f1fa63-17eb-43c0-bc4e-436b812c6da2
+---
 There are two forms of top-down parsers. [[Context-free grammar (CFG)]], can be used to generate such parsers automatically. (Compiler compilers, or Parser generators).
 
 # Parsing Problem

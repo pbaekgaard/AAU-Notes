@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/The-AC-Language-and-Compiler-dd9e1b89b7a149b4b0b067c1445304e6
+notionID: dd9e1b89-b7a1-49b4-b0b0-67c1445304e6
+---
 # Informal definition of the AC Language
 A short informal definition of the AC language. AC is short for addition calculator
 ## Types

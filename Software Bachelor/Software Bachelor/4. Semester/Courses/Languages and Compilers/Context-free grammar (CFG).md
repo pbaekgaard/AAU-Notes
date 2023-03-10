@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Context-free-grammar-CFG-ab4c3eaf64fc421a98547000d5741863
+notionID: ab4c3eaf-64fc-421a-9854-7000d5741863
+---
 Context-free grammar consists of LHS(Left-hand sides) and RHS(Right-hand sides).
 They can be though of a recursive equations.
 

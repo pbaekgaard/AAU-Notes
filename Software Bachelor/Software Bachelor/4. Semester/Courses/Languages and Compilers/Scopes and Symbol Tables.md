@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Scopes-and-Symbol-Tables-f567e5c3308246088699a6aee1b591bc
+notionID: f567e5c3-3082-4608-8699-a6aee1b591bc
+---
 # Symbol Tables
 The symbol table is a chart of all the symbols of a program. When parsing over the program, the symbol table is filled, containing: Symbol Number, Symbol Name and Attributes.
 

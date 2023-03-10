@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Overview-of-the-course-and-Language-processors-Exercises-b4063711ee4642c88c544d07468caf80
+notionID: b4063711-ee46-42c8-8c54-4d07468caf80
+---
 # Exercises
 1.  Do Sebesta Review Questions 1 to 29 on page 54 and 55 give priority to 1,2,8,10,12,21,25.
    
